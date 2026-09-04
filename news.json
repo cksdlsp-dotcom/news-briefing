@@ -1,20 +1,422 @@
 {
-  "updated_at": "2026-09-04T17:40:00+09:00",
+  "updated_at": "2026-09-04T18:24:39+09:00",
   "articles": [
-    {"id":"cnews-ai-seoyoung","briefing_date":"2026-09-04","published_date":"2026-09-02","title":"[비즈 인사이트] AX 속도내는 서영엔지니어링","url":"https://m.cnews.co.kr/m_home/view.jsp?idxno=202609021257410530382","source":"대한경제","projects":["AI활용","문서분류","감리자동화","내역·적산"],"mark":"설계검토·법령지원·행정서류에 AI를 실제 적용한 엔지니어링 사례.","score":12},
-    {"id":"cnews-wage-0904","briefing_date":"2026-09-04","published_date":"2026-09-04","title":"건설노임 5년 새 20%↑…기능공 몸값 가른 ‘일감·희소성’","url":"https://www.cnews.co.kr/m_home/view.jsp?idxno=202609031100264530557","source":"대한경제","projects":["내역·적산","감리자동화"],"mark":"공종별 노임 변동과 인력 희소성 자료.","score":9},
-    {"id":"cnews-engineering-86","briefing_date":"2026-09-04","published_date":"2026-08-31","title":"이달 公共 건설엔지니어링 86건 ‘주인찾기’","url":"https://www.cnews.co.kr/m_home/view.jsp?idxno=202608311430399000993","source":"대한경제","projects":["수주대박","감리자동화"],"mark":"설계·CM·감리 발주 흐름을 확인할 수 있는 공공 건설엔지니어링 시장 기사.","score":11},
-    {"id":"cnews-design-orders","briefing_date":"2026-09-04","published_date":"2026-08-28","title":"건축ㆍ토목설계 일감도 쏟아진다","url":"https://www.cnews.co.kr/uhtml/view.jsp?idxno=202608281425436420719","source":"대한경제","projects":["수주대박"],"mark":"설계용역 발주물량과 수주시장 흐름 참고.","score":9},
-    {"id":"snm-ks-574189","briefing_date":"2026-09-04","published_date":"2026-09-03","title":"국표원, PC말뚝·암거블록 등 KS 10종 개정 예고","url":"https://www.snmnews.com/news/articleView.html?idxno=574189","source":"철강금속신문","projects":["사전검토","내역·적산","감리자동화"],"mark":"건설용 자재·구조재 표준 개정 확인 필요.","score":10},
-    {"id":"anc-21072","briefing_date":"2026-09-04","published_date":"2026-09-03","title":"헌법재판소, 건축시공기술사 감리자격 제외 ‘합헌’","url":"https://www.ancnews.kr/news/articleView.html?idxno=21072","source":"건축사신문","projects":["감리자동화","사전검토"],"mark":"건축 감리 자격과 법적 역할 경계를 다룬 제도 기사.","score":10},
-    {"id":"anc-20369","briefing_date":"2026-09-04","published_date":"2026-08-01","title":"건축사 아니면서 건축설계·감리한다고 하면 ‘처벌’","url":"https://www.ancnews.kr/news/articleView.html?idxno=20369","source":"건축사신문","projects":["감리자동화","사전검토"],"mark":"설계·감리 업무의 법적 자격 범위를 확인할 자료.","score":8},
-    {"id":"inews-airport-927708","briefing_date":"2026-09-04","published_date":"2026-09-01","title":"청주공항 민간 활주로 운명 9월 결정","url":"https://www.inews365.com/news/article.html?no=927708","source":"충북일보","projects":["지역·부동산","사전검토"],"mark":"청주권 개발·교통·토지 흐름에 영향을 줄 지역 이슈.","score":9},
-    {"id":"inews-boeun-925626","briefing_date":"2026-09-04","published_date":"2026-08-15","title":"청주·보은, ‘2026년 투자선도지구 공모 사업’ 선정","url":"https://www.inews365.com/news/article.html?no=925626","source":"충북일보","projects":["지역·부동산","사전검토","수주대박"],"mark":"지역 공공투자와 후속 설계·개발 수요 가능성.","score":10},
-    {"id":"inews-hynix-926632","briefing_date":"2026-09-04","published_date":"2026-08-20","title":"SK하이닉스가 쏘아올린 청주 부동산 호재","url":"https://www.inews365.com/news/article.html?no=926632","source":"충북일보","projects":["지역·부동산","사전검토"],"mark":"산업투자와 청주 부동산·개발수요의 연결.","score":8},
-    {"id":"cctimes-rental-913558","briefing_date":"2026-09-04","published_date":"2026-06-01","title":"보호 못 받는 민간임대 … 시공사도 못 구해 표류","url":"https://www.cctimes.kr/news/articleView.html?idxno=913558","source":"충청타임즈","projects":["지역·부동산","사전검토"],"mark":"민간임대 사업구조와 사업성 리스크 사례.","score":7},
-    {"id":"ccdaily-road-2316814","briefing_date":"2026-09-04","published_date":"2026-08-01","title":"충청내륙고속화도로 추가 개통, 지역 균형발전 신호탄","url":"https://www.ccdailynews.com/news/articleView.html?idxno=2316814","source":"충청일보","projects":["지역·부동산","사전검토"],"mark":"충북 교통망 변화가 지역개발·입지에 미칠 영향 참고.","score":7},
-    {"id":"bim-exam-2026","briefing_date":"2026-09-04","published_date":"2026-09-04","title":"2026년 BIM전문가 시험일정·정시 3회 안내","url":"https://www.bimkorea.or.kr/exam/index.jsp","source":"한국BIM평가원","projects":["BIM"],"mark":"BIM전문가 시험 일정과 실기 준비 일정 확인.","score":8},
-    {"id":"bim-guide-33","briefing_date":"2026-09-04","published_date":"2026-03-25","title":"The BIM 33 — AI 기반 openBIM 분류 등","url":"https://www.buildingsmart.or.kr/Home/TheBIM?eTypeNum=33&eYear=2026","source":"buildingSMART Korea","projects":["BIM","AI활용","문서분류"],"mark":"AI 기반 openBIM 분류와 실제 BIM 사례를 다룬 전문자료.","score":9},
-    {"id":"kicte-bim-2026","briefing_date":"2026-09-04","published_date":"2026-09-02","title":"2026 BIM-IT 융합과정·건축BIM 전문과정 안내","url":"https://www.kicte.or.kr/portal/country/mainViewAction.do","source":"건설기술교육원","projects":["BIM","AI활용"],"mark":"BIM·IT 융합 및 건축BIM 전문 교육과정 최신 안내.","score":7}
+    {
+      "id": "cnews-ai-seoyoung",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-02",
+      "title": "[비즈 인사이트] AX 속도내는 서영엔지니어링",
+      "url": "https://m.cnews.co.kr/m_home/view.jsp?idxno=202609021257410530382",
+      "source": "대한경제",
+      "projects": [
+        "AI활용",
+        "문서분류",
+        "감리자동화",
+        "내역·적산"
+      ],
+      "mark": "설계검토·법령지원·행정서류에 AI를 실제 적용한 엔지니어링 사례.",
+      "score": 12
+    },
+    {
+      "id": "auto-ad3f1a2676a7",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-02",
+      "title": "은마아파트 CM업체 선정 입찰에…한미글로벌·ANU·ITM ‘3파전’ - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80Zi1qMG9HU2xRaGsyTk1vR2daRWZNMWhxM0EwVFN3eFhCNk9wRjdMVUcySGpuX0wwZnRnZ2pLb2hRNHlGdHpFYWZpYjVTckpETVNXNVZlVTFPZXdVcnNlMFB1ekJWa21HaHd5eVBmbzZ1Y2RG?oc=5",
+      "source": "대한경제",
+      "projects": [
+        "수주대박",
+        "감리자동화",
+        "지역·부동산"
+      ],
+      "mark": "은마아파트 CM업체 선정 입찰에…한미글로벌·ANU·ITM ‘3파전’ 대한경제",
+      "score": 11,
+      "via_google_news": true
+    },
+    {
+      "id": "cnews-engineering-86",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-08-31",
+      "title": "이달 公共 건설엔지니어링 86건 ‘주인찾기’",
+      "url": "https://www.cnews.co.kr/m_home/view.jsp?idxno=202608311430399000993",
+      "source": "대한경제",
+      "projects": [
+        "수주대박",
+        "감리자동화"
+      ],
+      "mark": "설계·CM·감리 발주 흐름을 확인할 수 있는 공공 건설엔지니어링 시장 기사.",
+      "score": 11
+    },
+    {
+      "id": "snm-ks-574189",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "국표원, PC말뚝·암거블록 등 KS 10종 개정 예고",
+      "url": "https://www.snmnews.com/news/articleView.html?idxno=574189",
+      "source": "철강금속신문",
+      "projects": [
+        "사전검토",
+        "내역·적산",
+        "감리자동화"
+      ],
+      "mark": "건설용 자재·구조재 표준 개정 확인 필요.",
+      "score": 10
+    },
+    {
+      "id": "anc-21072",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "헌법재판소, 건축시공기술사 감리자격 제외 ‘합헌’",
+      "url": "https://www.ancnews.kr/news/articleView.html?idxno=21072",
+      "source": "건축사신문",
+      "projects": [
+        "감리자동화",
+        "사전검토"
+      ],
+      "mark": "건축 감리 자격과 법적 역할 경계를 다룬 제도 기사.",
+      "score": 10
+    },
+    {
+      "id": "auto-41dd059961d6",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-02",
+      "title": "강동구 굽은다리역세권에 청년임대 76세대 - 비아파트 주거공급 확대 - 재개발재건축매거진",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50b3gtRFVCS2V0NHhCZ0JBUnI5WXdPZnBnVEt6TEhhWEotYnpDMkt1eThQdElTb1RPMW92d1MzczN3TDk2V0F3WTN1YUM0LUhzY0RTVm0wZElDZ1VnbWFfOEFDQi0yS2J2dGNN?oc=5",
+      "source": "재개발재건축매거진",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "강동구 굽은다리역세권에 청년임대 76세대",
+      "score": 10,
+      "via_google_news": true
+    },
+    {
+      "id": "inews-boeun-925626",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-08-15",
+      "title": "청주·보은, ‘2026년 투자선도지구 공모 사업’ 선정",
+      "url": "https://www.inews365.com/news/article.html?no=925626",
+      "source": "충북일보",
+      "projects": [
+        "지역·부동산",
+        "사전검토",
+        "수주대박"
+      ],
+      "mark": "지역 공공투자와 후속 설계·개발 수요 가능성.",
+      "score": 10
+    },
+    {
+      "id": "cnews-wage-0904",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-04",
+      "title": "건설노임 5년 새 20%↑…기능공 몸값 가른 ‘일감·희소성’",
+      "url": "https://www.cnews.co.kr/m_home/view.jsp?idxno=202609031100264530557",
+      "source": "대한경제",
+      "projects": [
+        "내역·적산",
+        "감리자동화"
+      ],
+      "mark": "공종별 노임 변동과 인력 희소성 자료.",
+      "score": 9
+    },
+    {
+      "id": "inews-airport-927708",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-01",
+      "title": "청주공항 민간 활주로 운명 9월 결정",
+      "url": "https://www.inews365.com/news/article.html?no=927708",
+      "source": "충북일보",
+      "projects": [
+        "지역·부동산",
+        "사전검토"
+      ],
+      "mark": "청주권 개발·교통·토지 흐름에 영향을 줄 지역 이슈.",
+      "score": 9
+    },
+    {
+      "id": "cnews-design-orders",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-08-28",
+      "title": "건축ㆍ토목설계 일감도 쏟아진다",
+      "url": "https://www.cnews.co.kr/uhtml/view.jsp?idxno=202608281425436420719",
+      "source": "대한경제",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "설계용역 발주물량과 수주시장 흐름 참고.",
+      "score": 9
+    },
+    {
+      "id": "bim-guide-33",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-03-25",
+      "title": "The BIM 33 — AI 기반 openBIM 분류 등",
+      "url": "https://www.buildingsmart.or.kr/Home/TheBIM?eTypeNum=33&eYear=2026",
+      "source": "buildingSMART Korea",
+      "projects": [
+        "BIM",
+        "AI활용",
+        "문서분류"
+      ],
+      "mark": "AI 기반 openBIM 분류와 실제 BIM 사례를 다룬 전문자료.",
+      "score": 9
+    },
+    {
+      "id": "bim-exam-2026",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-04",
+      "title": "2026년 BIM전문가 시험일정·정시 3회 안내",
+      "url": "https://www.bimkorea.or.kr/exam/index.jsp",
+      "source": "한국BIM평가원",
+      "projects": [
+        "BIM"
+      ],
+      "mark": "BIM전문가 시험 일정과 실기 준비 일정 확인.",
+      "score": 8
+    },
+    {
+      "id": "inews-hynix-926632",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-08-20",
+      "title": "SK하이닉스가 쏘아올린 청주 부동산 호재",
+      "url": "https://www.inews365.com/news/article.html?no=926632",
+      "source": "충북일보",
+      "projects": [
+        "지역·부동산",
+        "사전검토"
+      ],
+      "mark": "산업투자와 청주 부동산·개발수요의 연결.",
+      "score": 8
+    },
+    {
+      "id": "anc-20369",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-08-01",
+      "title": "건축사 아니면서 건축설계·감리한다고 하면 ‘처벌’",
+      "url": "https://www.ancnews.kr/news/articleView.html?idxno=20369",
+      "source": "건축사신문",
+      "projects": [
+        "감리자동화",
+        "사전검토"
+      ],
+      "mark": "설계·감리 업무의 법적 자격 범위를 확인할 자료.",
+      "score": 8
+    },
+    {
+      "id": "kicte-bim-2026",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-02",
+      "title": "2026 BIM-IT 융합과정·건축BIM 전문과정 안내",
+      "url": "https://www.kicte.or.kr/portal/country/mainViewAction.do",
+      "source": "건설기술교육원",
+      "projects": [
+        "BIM",
+        "AI활용"
+      ],
+      "mark": "BIM·IT 융합 및 건축BIM 전문 교육과정 최신 안내.",
+      "score": 7
+    },
+    {
+      "id": "ccdaily-road-2316814",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-08-01",
+      "title": "충청내륙고속화도로 추가 개통, 지역 균형발전 신호탄",
+      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2316814",
+      "source": "충청일보",
+      "projects": [
+        "지역·부동산",
+        "사전검토"
+      ],
+      "mark": "충북 교통망 변화가 지역개발·입지에 미칠 영향 참고.",
+      "score": 7
+    },
+    {
+      "id": "cctimes-rental-913558",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-06-01",
+      "title": "보호 못 받는 민간임대 … 시공사도 못 구해 표류",
+      "url": "https://www.cctimes.kr/news/articleView.html?idxno=913558",
+      "source": "충청타임즈",
+      "projects": [
+        "지역·부동산",
+        "사전검토"
+      ],
+      "mark": "민간임대 사업구조와 사업성 리스크 사례.",
+      "score": 7
+    },
+    {
+      "id": "auto-8d4d0c6105e7",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-04",
+      "title": "HD현대, 하반기 신입사원 채용 실시...‘AI활용역량검사’ 첫 도입 - 중앙이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ORHp1eGVtamxXUGZ6UmVNWDVRWDhlS3RiUDV5SDJrOGwzdXROWjVUUVEyckZ1TWRDb0lGV3ZETy0wX29Mc3EzNkExNTBBQzA1aHlqQkhmcHptbmxMY2xtajRhWFdSZEg3M0dCZDZ6ZjUxUQ?oc=5",
+      "source": "중앙이코노미뉴스",
+      "projects": [
+        "수주대박",
+        "AI활용"
+      ],
+      "mark": "HD현대, 하반기 신입사원 채용 실시...‘AI활용역량검사’ 첫 도입 중앙이코노미뉴스",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-53c24cd54375",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "[아유경제_부동산] 부산시, 열린부산 도시건축 포럼 개최… 청년 주거 정책 논의 - 아유경제",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LdEh2SlItUEEycWVZb0o1NF9SQjllQ2Q4Q3ZxSG5PYkt1eWhTTkdKX0dTMDI0Tm9qTnpXanR0bkUwWGpjMXhSSFVPMGZ6VW5ZZ2pFcXJBcGhIaE8yNUY5ZmhYNXJ5NGdm?oc=5",
+      "source": "아유경제",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[아유경제_부동산] 부산시, 열린부산 도시건축 포럼 개최… 청년 주거 정책 논의 아유경제",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-9132c3417aa1",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "대우건설, 세계적 조경‧도시설계 그룹 STOSS와 손잡고 신월시영 재건축 조경 차별화 나선다 - 오늘경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9RSHZqaDhPWEltdV9BN05CMHE3WXh3dktEbU82MXUydkxhdE1ZVm52OXQyQU5FVzJaMzZfT2F5VHg4eXZFZnlDWGFvQ0JNaEZUS0VTNzl1MlFWSHVZb25ZNjlheXBlenM5bnpReU45ZmpuS3c?oc=5",
+      "source": "오늘경제",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "대우건설, 세계적 조경‧도시설계 그룹 STOSS와 손잡고 신월시영 재건축 조경 차별화 나선다 오늘경제",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-428c4adedb12",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "미소정보기술, 독파모 기반 ‘공공 R&D 예산심의 AI’ 개발 수주 - 테크월드",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PSVFhV3pvSkhKX3JNVDBGb2dYeVMzTWhoRW1tVkF3aWIwQlpheGUwUVRwbDJrWTdHTV9VNVJ0WXNyVnhIQjhPcGQyMjJOX1FTLVJyTDdyX1ZaTHNMWWZBd29EVHB0LVBt?oc=5",
+      "source": "테크월드",
+      "projects": [
+        "수주대박",
+        "AI활용"
+      ],
+      "mark": "미소정보기술, 독파모 기반 ‘공공 R&D 예산심의 AI’ 개발 수주 테크월드",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-9e9237aadb6e",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "미소정보기술, 독파모 기반 공공 R&D 예산심의 AI 시스템 수주 - datanet.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnLUllazBkemdzTmlsTHRTbXFBMEVqYXRfNy1LOVE4YlB0Rmk4TUpkd0Q5TktIYUlLdkpfWlJKVG95V3FSNll0TGhPTVBIeXl2OHBIVWg5T3JGSkJ4QndhdTZGeFpOZXRCUm84WA?oc=5",
+      "source": "datanet.co.kr",
+      "projects": [
+        "수주대박",
+        "AI활용"
+      ],
+      "mark": "미소정보기술, 독파모 기반 공공 R&D 예산심의 AI 시스템 수주 datanet.co.kr",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f9b7a8cddd40",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-02",
+      "title": "인식 넘어 이해하는 AI 뜬다…한국딥러닝, 문서 운영 ‘딥 옵스’ 출시 - donga.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BeVVZZmtObzVrVExfWWx5SUg5MElibHFjaV83NzVKdFhmandoVG5sUExVbHhtcXJhZHdGZGdFX0lUTUdNZHNtSWJDckloZ01TcHhMeUZnUHJ5QTEtNUlvLXN6QW9ZQ3RVOFdwdkY4VdIBZkFVX3lxTFBnRnUwdEZ6cVF1blJwd3dPXy1jcURqYUZHQ2pBU1Q4YmtEa1NhZFBKN3Rtd0M5S0JaY2ZzM0NRQ3BhSi0taGVOWk1RT01RUmRSRm1uQ05IazhpZUFKU1cxTFlGZEFXdw?oc=5",
+      "source": "donga.com",
+      "projects": [
+        "문서분류",
+        "AI활용"
+      ],
+      "mark": "인식 넘어 이해하는 AI 뜬다…한국딥러닝, 문서 운영 ‘딥 옵스’ 출시 donga.com",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-babfdf3fc35c",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-04",
+      "title": "“AI 시대 건축도면 저작권, 어떻게 보호할까”…9월 14일 국회서 정책토론회 - 대한건축사협회 건축사신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQ3Q4TFBsUDAzUlZkNEkxYzNGY0I1LUx2SU4waUZ0b3dUSkNwZkpsVlJCc2J6WFhzcUI5OEU1Vm5OM0dCZzZsVFlHRFBWejlfY0s1YjRBbi1SUlFVb3VNRlZJQ3BnOVk?oc=5",
+      "source": "대한건축사협회 건축사신문",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "“AI 시대 건축도면 저작권, 어떻게 보호할까”…9월 14일 국회서 정책토론회 대한건축사협회 건축사신문",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-cadb44f2f44a",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "대우건설, 글로벌 조경그룹 STOSS와 신월시영 재건축 공략 - 청년일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05U25GNmR3Z2thTG01S0kxQjZyUVBGUDJpNFFZbE13aVRLMnlReEZCeWdMRWpRZThQQm5tM3E4eWwzQ0NOX0NpODA5TFlnRktlcEQwcVdMRlVXQnJsbFpOUnpPOUx1RllFVXc?oc=5",
+      "source": "청년일보",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "대우건설, 글로벌 조경그룹 STOSS와 신월시영 재건축 공략 청년일보",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-d57a22df9c5b",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "대우건설, 글로벌 조경 그룹 STOSS와 ‘신월시영 재건축’ 차별화 협력 - 로이슈",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAyX0U3Y0RIZjdwNFlkbUdZUV9fMkhrUVBZSXd0SURXVzR0UUJBOGxtOUlNemFNZ2NHQUEzOGNkUkNSblRkRTVFX1E2dk9SRmZCZ0JuYkV3aXBydEJsUHJtVXRhWkxnbVdWTVhCTjZwZkh5VVdZcEc0NWhB?oc=5",
+      "source": "로이슈",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "대우건설, 글로벌 조경 그룹 STOSS와 ‘신월시영 재건축’ 차별화 협력 로이슈",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-83b999d95865",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-03",
+      "title": "10대 건설사 8월 도정 수주 3조3000억원…현대건설 '8조 클럽' - 신아일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1LV96REtMdGdhaDQwTjBTaDluWkd2SG8tSUh3NjZJdDNMTVdpNjFSajBqMUw4NDV2aGhwWXRQcWpGcjJKTTJlX21zUDZRX21WUzFaUHZVdXhSYm9UNno1blVsc2hxb1FScjRoWkdUTGg?oc=5",
+      "source": "신아일보",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "10대 건설사 8월 도정 수주 3조3000억원…현대건설 '8조 클럽' 신아일보",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-744f5fb7032c",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-02",
+      "title": "﻿항만은 빠르고 건설은 느리다… 중국 AX를 가르는 네 조건 [박지민의 중국과 미래] - it.chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HbGFBZTByVVZVQTBaNlZyS2NEbnktZWctTVhEZXRfZHVlSi1aZU1LcHBxRXJCdzh3dDFMeUZsRkNNU3F4X0M1cDA3SHBjb2lWbC1Kc0xERFgyV3VUem1HbWxzQXdqaXdzbTB5RHlGNC1hTmNT0gF0QVVfeXFMTUdsYUFlMHJVVlVBMFo2VnJLY0RueS1lZy1NWERldF9kdWVKLVplTUtwcHFFckJ3OHd0MUx5RmxGQ01TcXhfQzVwMDdIcGNvaVZsLUpzTEREWDJXdVR6bUdtbHNBd2ppd3NtMHlEeUY0LWFOY1M?oc=5",
+      "source": "it.chosun.com",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "﻿항만은 빠르고 건설은 느리다… 중국 AX를 가르는 네 조건 [박지민의 중국과 미래] it.chosun.com",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-5b0cc7290f6d",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-01",
+      "title": "우인북스, 건설기술인 현장 경험 담은 전문 전자책 6종 선보여 - 한국목재신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01U1pIdTFfaGhnRUlUX3J6NXZHZGY3cGRiOHNEX1dHY3RoUWtqcjVWUWMwTlpybXo3UVBSVTdoYVBNTmhmeUpCVmlmNlh5QW5sWmxsUHVYVm95aERoWTh4LXl5MEhwMlI5Tm5JajlsaUlSd9IBckFVX3lxTE01U1pIdTFfaGhnRUlUX3J6NXZHZGY3cGRiOHNEX1dHY3RoUWtqcjVWUWMwTlpybXo3UVBSVTdoYVBNTmhmeUpCVmlmNlh5QW5sWmxsUHVYVm95aERoWTh4LXl5MEhwMlI5Tm5JajlsaUlSdw?oc=5",
+      "source": "한국목재신문",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "우인북스, 건설기술인 현장 경험 담은 전문 전자책 6종 선보여 한국목재신문",
+      "score": 4,
+      "via_google_news": true
+    }
   ]
 }

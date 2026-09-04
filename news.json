@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-04T18:24:39+09:00",
+  "updated_at": "2026-09-04T21:30:05+09:00",
   "articles": [
     {
       "id": "cnews-ai-seoyoung",
@@ -377,6 +377,20 @@
       "via_google_news": true
     },
     {
+      "id": "auto-67044f852fa9",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-04",
+      "title": "[헤럴드 기업탐방] ㈜예다종합설계감리사무소(이윤상 대표) 2. - kueherald.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBDSWIxanVpOXF2eUxDa2ZXOVktN3dydmRjMXR3SlFxQ0RwS0hYbk8wVWFpVjBqSVpmamVlZk1PcEpqeXZlNXFVOGJUNUY3V2FNNW5tUWFnZnY2bVFvUFdpd1ZhYm5BQVBKeG15aNIBcEFVX3lxTE9GTzF6eWpFRFJPTlp2SGppZ01RajBSSlJRd3JQRjUzWkVfWjR4NUM3RHYtNl9hM09UaFU3OUxlSkVobkEtVVZ1cERLblRra29rVk5Ta0IyeXVpaTV2Q1otbVlYME1PcWJMLXI5YWNoSms?oc=5",
+      "source": "kueherald.co.kr",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "[헤럴드 기업탐방] ㈜예다종합설계감리사무소(이윤상 대표) 2. kueherald.co.kr",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
       "id": "auto-83b999d95865",
       "briefing_date": "2026-09-04",
       "published_date": "2026-09-03",
@@ -401,6 +415,20 @@
         "AI활용"
       ],
       "mark": "﻿항만은 빠르고 건설은 느리다… 중국 AX를 가르는 네 조건 [박지민의 중국과 미래] it.chosun.com",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-26e49ce07de4",
+      "briefing_date": "2026-09-04",
+      "published_date": "2026-09-02",
+      "title": "﻿항만은 빠르고 건설은 느리다… 중국 AX를 가르는 네 조건 [박지민의 중국과 미래] - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WMjk0Nm1LVFJ4RmpBdXB1NWZvd0tpY0VKVVFzTjR6VVFhaXNBTmtnNWhyZmJocFFGRE1IZkNKNDZDUklnWlMtb2hoNVJ3UXA2R0dZU0EtUGZma201bUpfcEUwVWdfYVlUWDVDTlNzcVTSAXRBVV95cUxNR2xhQWUwclVWVUEwWjZWcktjRG55LWVnLU1YRGV0X2R1ZUotWmVNS3BwcUVyQnc4d3QxTHlGbEZDTVNxeF9DNXAwN0hwY29pVmwtSnNMRERYMld1VHptR21sc0F3aml3c20weUR5RjQtYU5jUw?oc=5",
+      "source": "IT조선",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "﻿항만은 빠르고 건설은 느리다… 중국 AX를 가르는 네 조건 [박지민의 중국과 미래] IT조선",
       "score": 4,
       "via_google_news": true
     },

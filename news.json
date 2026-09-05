@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T21:30:05+09:00",
+  "updated_at": "2026-09-05T09:33:13+09:00",
   "articles": [
+    {
+      "id": "auto-8b510bfcc3ef",
+      "briefing_date": "2026-09-05",
+      "published_date": "2026-09-02",
+      "title": "한국딥러닝, '딥 옵스'로 문서 AI 운영 자동화 - 지디넷코리아",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12VW4ya3EwNDRPQ3VlZnp1UXhwY29EWHp1U0c4cVlreG0zOEZyUlczbWl6VWMtYW0zSEZkdWl3UTBjVkMyZTV4bUR2WXdGM0RjZ180b1BB?oc=5",
+      "source": "지디넷코리아",
+      "projects": [
+        "문서분류",
+        "AI활용"
+      ],
+      "mark": "한국딥러닝, '딥 옵스'로 문서 AI 운영 자동화 지디넷코리아",
+      "score": 9,
+      "via_google_news": true
+    },
     {
       "id": "cnews-ai-seoyoung",
       "briefing_date": "2026-09-04",

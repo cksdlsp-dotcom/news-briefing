@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T12:22:52+09:00",
+  "updated_at": "2026-09-05T15:26:45+09:00",
   "articles": [
     {
       "id": "auto-8b510bfcc3ef",
@@ -14,6 +14,20 @@
       ],
       "mark": "한국딥러닝, '딥 옵스'로 문서 AI 운영 자동화 지디넷코리아",
       "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-907732668296",
+      "briefing_date": "2026-09-05",
+      "published_date": "2026-09-02",
+      "title": "LH 충북본부, 민간 신축 매입약정 445호 매입…11월까지 접수 - 충청일보",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RWmFnaGVpQThVMlJkLTRuX1ZRSlU3SlhocW9NX2RHUmVCT0pOd1hVSnQydGVmeEhJeXZPRU8tVVVUb1VvbGp3TTFwZmktM0xTdWV0OER3ZEt4S2N1NnRqQ3Q3R00zQmVuZ09qRDZOUWU?oc=5",
+      "source": "충청일보",
+      "projects": [
+        "지역·부동산"
+      ],
+      "mark": "LH 충북본부, 민간 신축 매입약정 445호 매입…11월까지 접수 충청일보",
+      "score": 6,
       "via_google_news": true
     },
     {

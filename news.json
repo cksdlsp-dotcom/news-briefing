@@ -1,6 +1,49 @@
 {
-  "updated_at": "2026-09-05T21:27:03+09:00",
+  "updated_at": "2026-09-06T09:35:51+09:00",
   "articles": [
+    {
+      "id": "auto-d9f4906114a0",
+      "briefing_date": "2026-09-06",
+      "published_date": "2026-09-06",
+      "title": "[에이전틱 AI 맵 2026] 이든티앤에스, 문서 읽고 판단해 시스템까지 실행…‘웍트로’로 공공 자동화 - IT조선",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VY2J6Wm0yNUZPRlBGX2NjYVBHbWFUbWd3dE9tODFtX3hPbnZiWkhhaDZpVUhmYVhHRC1LWHB3SkZ1VFR5b3B5UlVZbGFlNVczVHQwNkhHTTJoQThqWEhCMEhyYk5hM3RJVDJtanNNLXjSAXRBVV95cUxNMmVFOTZhZU1LT2VFME9oUkhBbi1JSHlIeXVHbXg4MV9wUXdsTjdPXzlTRXVQeUhCSVk2ME9BZFRkc3RhWGNNNDMzM3JaSjE5cVYyVXFrRzlyanZfM1JKaGM3Zk5KMVdwcmZ5YlhTQjVwNmwxeg?oc=5",
+      "source": "IT조선",
+      "projects": [
+        "문서분류",
+        "AI활용"
+      ],
+      "mark": "[에이전틱 AI 맵 2026] 이든티앤에스, 문서 읽고 판단해 시스템까지 실행…‘웍트로’로 공공 자동화 IT조선",
+      "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f9d89da28449",
+      "briefing_date": "2026-09-06",
+      "published_date": "2026-09-03",
+      "title": "대우건설, 세계적 조경-도시설계 그룹 STOSS와 손잡고 신월시영 재건축 조경 차별화 나선다 - renews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BaFNtSWNYd3JrRGwwQWg2aUJjdHhEVnEwRmYtUnhCRldvVnhOZkpuQk9RMXdKUXFCa2hCTzZMUGlaWkpmSTZYVHg3cVoyLXBqWE9CSTdXVUhuTVlkc2dqVTJURFAtdw?oc=5",
+      "source": "renews.co.kr",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "대우건설, 세계적 조경-도시설계 그룹 STOSS와 손잡고 신월시영 재건축 조경 차별화 나선다 renews.co.kr",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-e3602455bd99",
+      "briefing_date": "2026-09-06",
+      "published_date": "2026-09-05",
+      "title": "신반포4차, 최고 49층·1833세대로 재건축 - 2029년 착공 목표 - 한국도시환경헤럴드",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TUzhZZFFhNEU1Nm54U2ZOMjBhQm1Ia0NOVjBKUUdUNmdjbk1OOFFQT0dTdDBHNENTQWZMaFBrb2NtU2xmR09CMDRUYUpxTlRkOEJlaWltQVFwRE9nWFZGSWprUF9rb3RRQmZ0WHZJcUvSAXBBVV95cUxOU1M4WWRRYTRFNTZueFNmTjIwYUJtSGtDTlYwSlFHVDZnY25NTjhRUE9HU3QwRzRDU0FmTGhQa29jbVNsZkdPQjA0VGFKcU5UZDhCZWlpbUFRcERPZ1hWRklqa1Bfa290UUJmdFh2SXFL?oc=5",
+      "source": "한국도시환경헤럴드",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "신반포4차, 최고 49층·1833세대로 재건축",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-8b510bfcc3ef",
       "briefing_date": "2026-09-05",

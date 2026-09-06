@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T12:23:48+09:00",
+  "updated_at": "2026-09-06T15:27:38+09:00",
   "articles": [
     {
       "id": "auto-d9f4906114a0",
@@ -14,6 +14,21 @@
       ],
       "mark": "[에이전틱 AI 맵 2026] 이든티앤에스, 문서 읽고 판단해 시스템까지 실행…‘웍트로’로 공공 자동화 IT조선",
       "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-30cc6c46e278",
+      "briefing_date": "2026-09-06",
+      "published_date": "2026-09-06",
+      "title": "롯데건설, 도곡우성APT 재건축 수주…올해 도시정비사업 4조원 돌파 - 파이낸셜신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02aGJwSU5Td0ZzVG1kWWNCTzByWDhGcERqYlVKY21fZjF4LW80OXlFN1MwN192bnRKaGFfQksyaGFrdlhZMkRfUko0Z0N0eXlIb1c5Y3F3ZEw2NDNIbTUzVEJueTZFMURRN2lj?oc=5",
+      "source": "파이낸셜신문",
+      "projects": [
+        "수주대박",
+        "사전검토"
+      ],
+      "mark": "롯데건설, 도곡우성APT 재건축 수주…올해 도시정비사업 4조원 돌파 파이낸셜신문",
+      "score": 8,
       "via_google_news": true
     },
     {

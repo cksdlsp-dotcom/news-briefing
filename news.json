@@ -1,6 +1,37 @@
 {
-  "updated_at": "2026-09-06T21:27:33+09:00",
+  "updated_at": "2026-09-07T09:35:49+09:00",
   "articles": [
+    {
+      "id": "auto-051b5522aba3",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-06",
+      "title": "도곡우성아파트 재건축 수주 롯데건설, 올해 도시정비사업 4조원 돌파 - 메디컬투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MZ0c4dmdJZjVKT2kxdzJEX3NucUZ0Z1QxUHl0TEVwNTFzaDVVU0h1QjZoMHgwNTBZeWtCWEdTWEdzeEVWZEh6eFE5a2FnQ295cnM3UFE5b3Mza3ZxYWw2UjF2X3hRd1htUVJ2SA?oc=5",
+      "source": "메디컬투데이",
+      "projects": [
+        "수주대박",
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "도곡우성아파트 재건축 수주 롯데건설, 올해 도시정비사업 4조원 돌파 메디컬투데이",
+      "score": 11,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-b778023fcba5",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "[이번주 재개발ㆍ재건축] 2.4조 목동13단지 입찰 마감 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSRlVZSGZWTEt6UGY4N1R5eHhLNUlKbkc4QUZPTldsX2kxN2VqZ3lNTTB5VEpkY09aTy1LMmpjWkJvTDB5YzgzWTZWdVBmTWZqcmE3SEJLbkpYUDl5emRYVkhlZnFUb2thbjR2TnN5Y21iZzZJ?oc=5",
+      "source": "대한경제",
+      "projects": [
+        "수주대박",
+        "사전검토"
+      ],
+      "mark": "[이번주 재개발ㆍ재건축] 2.4조 목동13단지 입찰 마감 대한경제",
+      "score": 10,
+      "via_google_news": true
+    },
     {
       "id": "auto-d9f4906114a0",
       "briefing_date": "2026-09-06",

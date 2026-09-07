@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T15:32:28+09:00",
+  "updated_at": "2026-09-07T18:26:52+09:00",
   "articles": [
     {
       "id": "auto-051b5522aba3",
@@ -63,6 +63,21 @@
       "via_google_news": true
     },
     {
+      "id": "auto-472c703d4cdd",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "롯데건설, 도곡우성 재건축 수주…도시정비사업 4조 돌파 - 코리아리포트",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93dTQ2TS1nY05ESFJ6SGI2Nmt0eHl4VWZHdkI3M1F1eGtoTktEaVRROWZwUWlrZnVEbTRxVU8ydGNnSkdsVERPck04aEJJcmpuMld3RnV2X0ZnUHZxZFlYNUQ4MTR1ai12UG82YWNSTkQ?oc=5",
+      "source": "코리아리포트",
+      "projects": [
+        "수주대박",
+        "사전검토"
+      ],
+      "mark": "롯데건설, 도곡우성 재건축 수주…도시정비사업 4조 돌파 코리아리포트",
+      "score": 8,
+      "via_google_news": true
+    },
+    {
       "id": "auto-1ae62085e0f7",
       "briefing_date": "2026-09-07",
       "published_date": "2026-09-07",
@@ -89,6 +104,48 @@
       ],
       "mark": "서울 정비사업 철거 때 길고양이 보호 강화…소규모정비·도시개발까지 확대 쿠키뉴스",
       "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-281ea3c7e486",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "[헤럴드 기업탐방] ㈜예다종합설계감리사무소(이윤상 대표) 3. - 한국도시환경헤럴드",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43RlIwTXJmN3FrOVRyTlRFTVR2NkVqX25XdUFyT2VraUlhbVliaXJFOEhMeXFjR3NRVHlEMzk2R3dwTlgyYS1QVE1oWnY2OWxqeXQzQ0ItR0laQW1uRjVKQjhwNUdsTFE5eE5pR9IBcEFVX3lxTE1CNWRZSFNpWjd3VVN3R2E4Qng0NnZvZjZUeFg1VlhXRzNaQ0FLVFowdzVOeVY3dy1NSVE1aW9vNkxfMDhXaDRjNVk1OXI4dmZXdzUxSnpGdC1tdVNiN3MwMkdzVjVVeV9OZ0F1bVotRkQ?oc=5",
+      "source": "한국도시환경헤럴드",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "[헤럴드 기업탐방] ㈜예다종합설계감리사무소(이윤상 대표) 3. 한국도시환경헤럴드",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-7e42e5c796a1",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "‘6,039억원’ 한강로구역, 시공자 선정 임박… 현대건설 유력 - 한국주택경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNZ2s5YkVlSXlJcjFwc2lDVU82UEFfZHhsUzJTMS1pSEIzR2kzU2FZZFA2QXE2alNBQ0Y0eDZMa3huQU1pSzNvSDFuazJrYll0Slk5cE5rOG5zcktvelRKbmVWM2xHbEEy?oc=5",
+      "source": "한국주택경제신문",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "‘6,039억원’ 한강로구역, 시공자 선정 임박… 현대건설 유력 한국주택경제신문",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-52e1be004dbd",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "건설업계, AI 데이터센터 시장 선점 경쟁… 모듈러·혁신기술로 경쟁력 강화 - biztribune.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yX0J3VGtBdC1zdTNjZ0hacm9PamN5OXQ0aHNPYXNiZ0FiREluVV81elNYLXJyUlpRQTZaa1JxWHp6c3cydEZmejg0M0tiRmxIWTBva04zdXlvcmswZUZIUVJVZGNxTjRILVpFYzRYNA?oc=5",
+      "source": "biztribune.co.kr",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "건설업계, AI 데이터센터 시장 선점 경쟁… 모듈러·혁신기술로 경쟁력 강화 biztribune.co.kr",
+      "score": 4,
       "via_google_news": true
     },
     {

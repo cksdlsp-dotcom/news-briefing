@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T12:25:31+09:00",
+  "updated_at": "2026-09-07T15:32:28+09:00",
   "articles": [
     {
       "id": "auto-051b5522aba3",
@@ -73,6 +73,21 @@
         "AI활용"
       ],
       "mark": "기준 없는 ‘이동로봇’…‘로봇친화형 건축 설계기준’ 마련 추진 기계설비신문",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-7a08cf67baf8",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-06",
+      "title": "서울 정비사업 철거 때 길고양이 보호 강화…소규모정비·도시개발까지 확대 - 쿠키뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rY25wUEJCZ3huVGRTbVpQVlJkTm1pbENrYWNuRTdQSG5pSlp1UzJLTGp3eGZyTVkxdURlOW9OZFZRSUtURml6YWpwN05UYnQ2bG9ad1hSTjNfV3BaVDNDRUV4aw?oc=5",
+      "source": "쿠키뉴스",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "서울 정비사업 철거 때 길고양이 보호 강화…소규모정비·도시개발까지 확대 쿠키뉴스",
       "score": 5,
       "via_google_news": true
     },

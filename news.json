@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T09:35:49+09:00",
+  "updated_at": "2026-09-07T12:25:31+09:00",
   "articles": [
     {
       "id": "auto-051b5522aba3",
@@ -30,6 +30,50 @@
       ],
       "mark": "[이번주 재개발ㆍ재건축] 2.4조 목동13단지 입찰 마감 대한경제",
       "score": 10,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-32cd4bf71db9",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "‘롯데월드타워 조망 스카이라운지’ 롯데건설, 4천억대 도곡우성 재건축 수주 - catchnews.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqZXc5R2MwOHEtaGlaTzhyX0hTZVJDZVRNTVlPLTBLYUV5TkNpc0hUWjR0S2dYV1pzTXE5VVBicXoxTGVFRlB4YS1RcEg0OWljMmJ3RjZqZ2NzLXBLQXlaYW1wTkN3bWpxUF930gFvQVVfeXFMT005djE3ZjJGNmZnR0FOQkREVjZ6NUdaMzdkc3VCSkgyUHBya1ZUX2VKTFJ0dV9Zc0Exc08xeGNmdEZfTkNsT09ab3NaZFdKWTJVck52Zm9jTG1kZEpsbU11OTgxMlhfd1VYazNWcDBj?oc=5",
+      "source": "catchnews.kr",
+      "projects": [
+        "수주대박",
+        "사전검토"
+      ],
+      "mark": "‘롯데월드타워 조망 스카이라운지’ 롯데건설, 4천억대 도곡우성 재건축 수주 catchnews.kr",
+      "score": 8,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-2c325dca3b80",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "롯데건설, 도곡우성 재건축 수주…도시정비 수주 4조원 돌파 - 포인트데일리",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkREI0eGRMb2ZreVhtT3R5Tkt5a1VFTElTWFJXZlJHMmFsLTBBblp6NlVCYUpxeVFDWXdkTU9fUi1waXJGNXBDYnpwem5vSWpna3UxcExPUHpManFJbTdQVlRzOXNqM2Jaa1ZHRW9mOUjSAXRBVV95cUxQWlVKbERFWFZLelF5amZHOVc2VHdfc1A5UHI3X3ladzIxWmJ5UUUweHRaY0hFREZIZThaQWVkS0lGZjZweFlWTnMyemhSdWNaV1NPeU1wZlZUWnlYNTNqeWJhN3RaTUgzUFZ4RUR3d1lEcEMwaQ?oc=5",
+      "source": "포인트데일리",
+      "projects": [
+        "수주대박",
+        "사전검토"
+      ],
+      "mark": "롯데건설, 도곡우성 재건축 수주…도시정비 수주 4조원 돌파 포인트데일리",
+      "score": 8,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-1ae62085e0f7",
+      "briefing_date": "2026-09-07",
+      "published_date": "2026-09-07",
+      "title": "기준 없는 ‘이동로봇’…‘로봇친화형 건축 설계기준’ 마련 추진 - 기계설비신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FeThKYkgyMEhnYzFfbmNvQTQteDM0eEtITFlzQ1MyaXI3ZVpjcF93Yzc1Nm9ieG1GV1EteVl2UlBHLXY0Z1JXNEJDSDVYRHhwcjFNWC1mWnhOdllSX1U5U3VVckh3YUdicU9tcg?oc=5",
+      "source": "기계설비신문",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "기준 없는 ‘이동로봇’…‘로봇친화형 건축 설계기준’ 마련 추진 기계설비신문",
+      "score": 5,
       "via_google_news": true
     },
     {

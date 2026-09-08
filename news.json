@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-08T15:30:02+09:00",
+  "updated_at": "2026-09-08T18:25:48+09:00",
   "articles": [
+    {
+      "id": "auto-6859bb4a6999",
+      "briefing_date": "2026-09-08",
+      "published_date": "2026-09-08",
+      "title": "도시개발사업 추진 명목 토지 매매 ‘주의보’ - cctoday.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sX21Vb0FLR3ozVUY4Tzk4aXR5c0c4WmM3TFpBNDc1RklOWUJaRnVEOWhVa0tTclYxS2tsb0RpSmZkcjBGaU9iaUYzbW1sc2h4T01pa1NMODRQODZocFoyWWljNlFCSE02ZG1WWGxB?oc=5",
+      "source": "cctoday.co.kr",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "도시개발사업 추진 명목 토지 매매 ‘주의보’ cctoday.co.kr",
+      "score": 10,
+      "via_google_news": true
+    },
     {
       "id": "auto-a5b75e37e41d",
       "briefing_date": "2026-09-08",

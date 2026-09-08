@@ -1,6 +1,64 @@
 {
-  "updated_at": "2026-09-07T21:31:25+09:00",
+  "updated_at": "2026-09-08T09:35:23+09:00",
   "articles": [
+    {
+      "id": "auto-a5b75e37e41d",
+      "briefing_date": "2026-09-08",
+      "published_date": "2026-09-08",
+      "title": "[재계부] '3.6조' 목동13·신월시영 입찰 본격시동…수주 시험대 오른 '신탁 정비' - youthdaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91X0hOajlBRG1DcndKZTgxeFJvb0lWbmNqdkVpUG94QWRlU2V4MFNaQWR4c2NWVllTQ3RmMTNDVDh4Q1QtZ3VOT0RjZ0tzNHZ4cG84M2hBakhrN0tIWElXeWJVdHQ1d1k?oc=5",
+      "source": "youthdaily.co.kr",
+      "projects": [
+        "수주대박",
+        "AI활용"
+      ],
+      "mark": "[재계부] '3.6조' 목동13·신월시영 입찰 본격시동…수주 시험대 오른 '신탁 정비' youthdaily.co.kr",
+      "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-88e8d586451b",
+      "briefing_date": "2026-09-08",
+      "published_date": "2026-09-06",
+      "title": "롯데건설, 도곡우성 재건축 수주…도시정비 누적 4조원 돌파 - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pZnBzVVI2RlhlcmlOTmFUSGNJVkZKZ2c5Y3N4NzVHZ0xIY3ZzVEUyV0NyZG43dW9fVGdVRm8xbUlmSGxLNlpCU3RYVHFBZEhlT2NVZ0Nkckw5X3dqMWl2SW1HMHV4T3ExOFHSAW9BVV95cUxPeVVELUpubFN1S3BkM2JNV0s4WmVmZ3NWa2dqYmg4SUVnQlNzMXh5SEFicDVIRm1FREdtdGppSVJCSEhWekFPdnlfd1RTdjBiWS1BcmJXT1czWHVDWklRRVBBN3NQektQWGR2OHNxLU0?oc=5",
+      "source": "머니투데이",
+      "projects": [
+        "수주대박",
+        "사전검토"
+      ],
+      "mark": "롯데건설, 도곡우성 재건축 수주…도시정비 누적 4조원 돌파",
+      "score": 8,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-4e71bb4f0d97",
+      "briefing_date": "2026-09-08",
+      "published_date": "2026-09-07",
+      "title": "건설업계, AI 데이터센터 시장 선점 경쟁… 모듈러·혁신기술로 경쟁력 강화 - 비즈트리뷴",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZnlRd09TOVJfbmhoeURsQjdxRFJxVGlQaXhEVE1teWZmSHRId2FCQTExSThtaGRxdzY4ZVBEanotb0pPYVNjMXFOQWJxN0oyNHkwcnY0dGY2cDk5a1pQQlBXdDQzbXBna2E3U0tXak8?oc=5",
+      "source": "비즈트리뷴",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "건설업계, AI 데이터센터 시장 선점 경쟁… 모듈러·혁신기술로 경쟁력 강화 비즈트리뷴",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-d4a691043e08",
+      "briefing_date": "2026-09-08",
+      "published_date": "2026-09-07",
+      "title": "[AI 산업] GS건설, 모듈러 AI 데이터센터로 ‘공기 단축’ 승부수 - AI라이프경제",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSbDJmZnQ5RFJDOEt0RHZCS2VDVW5vZ1VnX0xxZHlMYTBiaTc2UGhmN2M2ODVTZEpuajgzZ3FOdkFuLTBHSkpNeHVSazN3dkV1WlRsdUVkeGlDd1ZUSWE1UnhjLWZmclZtNUFr0gFvQVVfeXFMTXJHZV9jMjVsZ3gwOGhMNHZWY2xmRDZkcUVabmFqVE0tXzl3WExhbkw0X1dlZlNmalRvMGpJZlBhTVZiSWZNbzBZRTNKaVFYWHpZVHA1UVF2eVpES3ZtNnY1cEk1ZWxHREJPSmdPN3hr?oc=5",
+      "source": "AI라이프경제",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "[AI 산업] GS건설, 모듈러 AI 데이터센터로 ‘공기 단축’ 승부수 AI라이프경제",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-051b5522aba3",
       "briefing_date": "2026-09-07",

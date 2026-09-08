@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T12:24:55+09:00",
+  "updated_at": "2026-09-08T15:30:02+09:00",
   "articles": [
     {
       "id": "auto-a5b75e37e41d",
@@ -29,6 +29,20 @@
       ],
       "mark": "롯데건설, 도곡우성 재건축 수주…도시정비 누적 4조원 돌파",
       "score": 8,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-49771feb11d1",
+      "briefing_date": "2026-09-08",
+      "published_date": "2026-09-08",
+      "title": "[독자기고] 건설안전 관련 법령, 이제는 통합의 시대가 필요하다 - 세이프티퍼스트닷뉴스",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uXzl5QUZsVHRZTkpXWFNoUktlSS1adlNXdVhEZDNMNERuSWN1d1lJTG9ibFFKcmU5b1hKSnVLU1Y0YjN6MkNKbHNtczJoc29EMU1qdEdkOHlaUC1zZHdIWHRsZEFTbGxmbzdHeUd0RQ?oc=5",
+      "source": "세이프티퍼스트닷뉴스",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "[독자기고] 건설안전 관련 법령, 이제는 통합의 시대가 필요하다 세이프티퍼스트닷뉴스",
+      "score": 4,
       "via_google_news": true
     },
     {

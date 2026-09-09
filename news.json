@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T09:35:01+09:00",
+  "updated_at": "2026-09-09T12:25:03+09:00",
   "articles": [
     {
       "id": "auto-8df227c34670",
@@ -28,6 +28,20 @@
       ],
       "mark": "건설ㆍAI 융합 '시동'…\"자동화ㆍ무인화 실현\" 대한경제",
       "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-9c467c4293fa",
+      "briefing_date": "2026-09-09",
+      "published_date": "2026-09-07",
+      "title": "[헤럴드 기업탐방] ㈜예다종합설계감리사무소(이윤상 대표) 3. - kueherald.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CNWRZSFNpWjd3VVN3R2E4Qng0NnZvZjZUeFg1VlhXRzNaQ0FLVFowdzVOeVY3dy1NSVE1aW9vNkxfMDhXaDRjNVk1OXI4dmZXdzUxSnpGdC1tdVNiN3MwMkdzVjVVeV9OZ0F1bVotRkTSAXBBVV95cUxNQjVkWUhTaVo3d1VTd0dhOEJ4NDZ2b2Y2VHhYNVZYV0czWkNBS1RaMHc1TnlWN3ctTUlRNWlvbzZMXzA4V2g0YzVZNTlyOHZmV3c1MUp6RnQtbXVTYjdzMDJHc1Y1VXlfTmdBdW1aLUZE?oc=5",
+      "source": "kueherald.co.kr",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "[헤럴드 기업탐방] ㈜예다종합설계감리사무소(이윤상 대표) 3. kueherald.co.kr",
+      "score": 4,
       "via_google_news": true
     },
     {

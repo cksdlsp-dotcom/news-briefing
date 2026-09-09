@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-09-08T21:31:17+09:00",
+  "updated_at": "2026-09-09T09:35:01+09:00",
   "articles": [
+    {
+      "id": "auto-8df227c34670",
+      "briefing_date": "2026-09-09",
+      "published_date": "2026-09-08",
+      "title": "서울시·서울주택도시개발공사, 주택 공급 가속화·마곡일반산업단지 내 복합용지 33필지 공급 - 여성소비자신문",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DR09ZZnpjZmhLU1VtWkREV1BnZVBHbzBFTWFZa3A2S2o0OEdlc0U2VjJGV0NnSkJGZkZUUThDalp4bzAzSGg3UU5UREI5TTVCczBkeTI1dktWd1R3UWJMbGVMd0dxUQ?oc=5",
+      "source": "여성소비자신문",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "서울시·서울주택도시개발공사, 주택 공급 가속화·마곡일반산업단지 내 복합용지 33필지 공급 여성소비자신문",
+      "score": 8,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f6c8fdfa785f",
+      "briefing_date": "2026-09-09",
+      "published_date": "2026-09-09",
+      "title": "건설ㆍAI 융합 '시동'…\"자동화ㆍ무인화 실현\" - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBqdHZyeUlZVVlIUG9hOU1NRXZEb1Z2X1NseWYzZzhIbzRtYnRJcXlXSHFBY0pXVEtMWDJCVnRZai1SNkczbGdCYmRXYVBCQy0wWk1OSmRQaDhKa3hkbjM1MHpwM0NqczRhLUZJTVBLUlFGakNxWFE?oc=5",
+      "source": "대한경제",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "건설ㆍAI 융합 '시동'…\"자동화ㆍ무인화 실현\" 대한경제",
+      "score": 7,
+      "via_google_news": true
+    },
     {
       "id": "auto-6859bb4a6999",
       "briefing_date": "2026-09-08",

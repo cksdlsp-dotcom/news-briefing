@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-09T15:30:46+09:00",
+  "updated_at": "2026-09-09T18:26:07+09:00",
   "articles": [
+    {
+      "id": "auto-3eb381e6a3f1",
+      "briefing_date": "2026-09-09",
+      "published_date": "2026-09-09",
+      "title": "한국부동산원, 재개발․재건축 주택공급 물꼬를 튼다 - 한국건설신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQVTM5SnkyVVJJcFRZREZCQTBvbDlncDgwRngtdHBFOHh4dUkwMnlpekxWb3NtUFJLdnQwVUk2UzUyYWlYY3JOU2VVY242VnZlZDVOV1lCbW1sREVRdE1EdUF6Q0E4a3Y0XzUw?oc=5",
+      "source": "한국건설신문",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "한국부동산원, 재개발․재건축 주택공급 물꼬를 튼다 한국건설신문",
+      "score": 13,
+      "via_google_news": true
+    },
     {
       "id": "auto-8df227c34670",
       "briefing_date": "2026-09-09",
@@ -28,6 +43,36 @@
       ],
       "mark": "건설ㆍAI 융합 '시동'…\"자동화ㆍ무인화 실현\" 대한경제",
       "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-72d4026b3c93",
+      "briefing_date": "2026-09-09",
+      "published_date": "2026-09-09",
+      "title": "SH, 재개발임대주택 3,821세대 모집 재공고 - 한국건설신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50bUpxdTVpMGxlMkNzZnlaVXo0RDUwX1R6NWtWdEFYMDg2WWhGWERTSnBrLVduOTV3cm1ZYW84c2M4NFZHUnBma1BWaHR6elNKUnpOd2c3RlFSdW1qLTRaWWxkUURfSjhiSEhZ?oc=5",
+      "source": "한국건설신문",
+      "projects": [
+        "수주대박",
+        "사전검토"
+      ],
+      "mark": "SH, 재개발임대주택 3,821세대 모집 재공고 한국건설신문",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-7c089870d27c",
+      "briefing_date": "2026-09-09",
+      "published_date": "2026-09-09",
+      "title": "한국부동산원, 올해도 정비사업 주민 의사결정 지원 사업 추진 - 한국주택경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRd2tYdXZmMkdJQ01FemJ4Qko1YmdXek9KRXZnWEVmY2ZSb0s0dGp0aTlXUHp3RUU0RllBa216dzRGUFBtaGlvUlFCcmE5RTBwOFpWOF9tQVZvY1FoaHdaVHA1YnpSNktk?oc=5",
+      "source": "한국주택경제신문",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "한국부동산원, 올해도 정비사업 주민 의사결정 지원 사업 추진 한국주택경제신문",
+      "score": 5,
       "via_google_news": true
     },
     {

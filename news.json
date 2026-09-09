@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:26:07+09:00",
+  "updated_at": "2026-09-09T21:31:12+09:00",
   "articles": [
     {
       "id": "auto-3eb381e6a3f1",
@@ -58,6 +58,20 @@
       ],
       "mark": "SH, 재개발임대주택 3,821세대 모집 재공고 한국건설신문",
       "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-1d4a47a993a0",
+      "briefing_date": "2026-09-09",
+      "published_date": "2026-09-09",
+      "title": "9월 10일 열리는 ‘코리아 그래픽스 2026’, 피지컬 AI와 에이전트가 만드는 미래 제시 - 캐드앤그래픽스",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSVE0TTNYbWktWFR5dzlFM050OUVFc2pIUElDRDVxNVpaUHNYOU0tM0VDMkg2bktQdUllckFTQ0xNZUI3LWtfRkRDNENRTThMNTZDVkZHTWtLbEs3MnJMNTdSTkdZT3FrM3BqR2c1MVVrVE9sYkZGT2NQX25rZTZYTUd6b3RKcVdrNTVkYjhB?oc=5",
+      "source": "캐드앤그래픽스",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "9월 10일 열리는 ‘코리아 그래픽스 2026’, 피지컬 AI와 에이전트가 만드는 미래 제시 캐드앤그래픽스",
+      "score": 6,
       "via_google_news": true
     },
     {

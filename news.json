@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-10T15:30:38+09:00",
+  "updated_at": "2026-09-10T18:25:29+09:00",
   "articles": [
+    {
+      "id": "auto-6082c1b36e59",
+      "briefing_date": "2026-09-10",
+      "published_date": "2026-09-10",
+      "title": "[도서출간] 정비사업의 성패, 결국 ‘금융’에서 갈린다 - 재개발재건축매거진",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0yY1Bta0JvajZrb09ULWo1QnNKcTVqRVhXNUZCbUpLNGZUNkNnMENielF5SThpdzZUZ2dMZ3RpWENUZWNSREVnSXctNFFzd3Fvakl3dW9UTUN5SU1MQWYwdFU0ZFd3aHl3NTFn?oc=5",
+      "source": "재개발재건축매거진",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "[도서출간] 정비사업의 성패, 결국 ‘금융’에서 갈린다 재개발재건축매거진",
+      "score": 7,
+      "via_google_news": true
+    },
     {
       "id": "auto-dcf334f52065",
       "briefing_date": "2026-09-10",

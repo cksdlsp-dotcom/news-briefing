@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-10T09:30:42+09:00",
+  "updated_at": "2026-09-10T12:25:39+09:00",
   "articles": [
+    {
+      "id": "auto-dcf334f52065",
+      "briefing_date": "2026-09-10",
+      "published_date": "2026-09-10",
+      "title": "대한건축사협회가 만든 도서 품질·작성 지침, 국가 설계기준 체계로 운용 ‘성과’ - 대한건축사협회 건축사신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SUTJydXd0QmN3amVPSlFVUjZHVF9JQ1hqa2djSnVFYUxUYU9VTkFfdjZjTGVQOEV4TjlYX1MxUUZITXJMRUpGYnBGQXk0dFB5d0xubFhxb2xmVm9xVDRxOU5yY0FhV0U?oc=5",
+      "source": "대한건축사협회 건축사신문",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "대한건축사협회가 만든 도서 품질·작성 지침, 국가 설계기준 체계로 운용 ‘성과’ 대한건축사협회 건축사신문",
+      "score": 6,
+      "via_google_news": true
+    },
     {
       "id": "auto-5202b29ba618",
       "briefing_date": "2026-09-10",

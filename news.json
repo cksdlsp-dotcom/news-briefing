@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T15:29:33+09:00",
+  "updated_at": "2026-09-11T18:25:02+09:00",
   "articles": [
     {
       "id": "auto-8f98aca186eb",
@@ -14,6 +14,21 @@
       ],
       "mark": "재개발·재건축, 강의실 넘어 ‘현장에서 배운다’ - 건국대 도시정비사업 전문가과정 13기 9월 30일 개강 재개발재건축매거진",
       "score": 10,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-74b7e8ec46f6",
+      "briefing_date": "2026-09-11",
+      "published_date": "2026-09-11",
+      "title": "사이냅소프트, 지자체 행정에 ‘문서 AI’ 심는다…온프레미스부터 RAG까지 - 뉴스탭",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ta2pjOGptaFBHZXpOM1NUMDc1YTZNNTRwR1lCTHpUaDJfS1F2VGJXbWVERDVvelQyenFhdy1zT1JoR1B2YzNEUkF6dEpOV0NnaXV3dnBLWDRxR0t4NUluS2NBc3FZQ1gzUE5hZg?oc=5",
+      "source": "뉴스탭",
+      "projects": [
+        "문서분류",
+        "AI활용"
+      ],
+      "mark": "사이냅소프트, 지자체 행정에 ‘문서 AI’ 심는다…온프레미스부터 RAG까지 뉴스탭",
+      "score": 9,
       "via_google_news": true
     },
     {

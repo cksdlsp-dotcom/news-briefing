@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:25:02+09:00",
+  "updated_at": "2026-09-11T21:30:14+09:00",
   "articles": [
     {
       "id": "auto-8f98aca186eb",
@@ -43,6 +43,21 @@
         "지역·부동산"
       ],
       "mark": "[Who's Who Legal Korea 2026] 건설 · 부동산 리걸타임즈",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-c0a7504abb0e",
+      "briefing_date": "2026-09-11",
+      "published_date": "2026-09-11",
+      "title": "충북도, 민주당과 첫 예산정책협의회…'AI 바이오·SOC' 현안 집중 건의 - 피디언뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBDY0xPdXhqb0U2Q0FiRnlScVIwNmZlVTVzaTItcGVQdjQxM1lpV3BTVkVEdXp5eDBtTmVGYzZQT2tHRkNjczBSQ3NCSnRycjNWcXVzaWZERU43VktV?oc=5",
+      "source": "피디언뉴스",
+      "projects": [
+        "AI활용",
+        "지역·부동산"
+      ],
+      "mark": "충북도, 민주당과 첫 예산정책협의회…'AI 바이오·SOC' 현안 집중 건의 피디언뉴스",
       "score": 6,
       "via_google_news": true
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T12:24:44+09:00",
+  "updated_at": "2026-09-11T15:29:33+09:00",
   "articles": [
     {
       "id": "auto-8f98aca186eb",
@@ -14,6 +14,21 @@
       ],
       "mark": "재개발·재건축, 강의실 넘어 ‘현장에서 배운다’ - 건국대 도시정비사업 전문가과정 13기 9월 30일 개강 재개발재건축매거진",
       "score": 10,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-8065d89c841d",
+      "briefing_date": "2026-09-11",
+      "published_date": "2026-09-11",
+      "title": "[Who's Who Legal Korea 2026] 건설 · 부동산 - 리걸타임즈",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zVmdGWVFWQ3lETS1mS1hVMEZ5a2stQmE1bGExbDJWdk1ob19aWXhTR2YtTjdiSXpxeEcxalN2ZE14U1hybWlLQVN0V2dzdjJBYmhPWGFheDA5anBFcXl4QlEydEZsSjhNTFQxNWNDUQ?oc=5",
+      "source": "리걸타임즈",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[Who's Who Legal Korea 2026] 건설 · 부동산 리걸타임즈",
+      "score": 6,
       "via_google_news": true
     },
     {

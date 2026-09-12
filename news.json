@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-12T12:23:24+09:00",
+  "updated_at": "2026-09-12T15:27:45+09:00",
   "articles": [
+    {
+      "id": "auto-5dc6d868b2f4",
+      "briefing_date": "2026-09-12",
+      "published_date": "2026-09-11",
+      "title": "“정비사업은 현장에서 완성된다” - 건국대 도시정비 전문가과정 13기 9월 30일 개강 - 재개발재건축매거진",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBraWdHQmo3QjVhRzdhei1SNnJFeFZUeEdUQ0loTGxHejRtcEFDbDl4eVBBclVwODY0U3dZalpBOS1zSndXUW9pYkVaWktWV0ItWWdndDBjM3c4RFFNWkF5Y19YV1d2M3BNTG9B?oc=5",
+      "source": "재개발재건축매거진",
+      "projects": [
+        "사전검토",
+        "감리자동화"
+      ],
+      "mark": "“정비사업은 현장에서 완성된다” - 건국대 도시정비 전문가과정 13기 9월 30일 개강 재개발재건축매거진",
+      "score": 10,
+      "via_google_news": true
+    },
     {
       "id": "auto-f22c02537080",
       "briefing_date": "2026-09-12",

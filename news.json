@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T15:27:45+09:00",
+  "updated_at": "2026-09-12T18:22:49+09:00",
   "articles": [
     {
       "id": "auto-5dc6d868b2f4",
@@ -28,6 +28,21 @@
         "QGIS자동화"
       ],
       "mark": "신용한 충북지사, 민주당 지도부에 충북 미래 승부수...반도체가 오늘이면 바이오는 미래 아주경제",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-bf4bb94edaf2",
+      "briefing_date": "2026-09-12",
+      "published_date": "2026-09-11",
+      "title": "[Who's Who Legal Korea 2026] 건설 · 부동산 - legaltimes.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PaU1rYm8tR2ZueklxSTg2dDgyZUtVSHVud21Za0lYT3NzRS1pZDdmOFNKWG80MVdUeFJEYWZ0YXcyQllmU2owTFNrZ25aekoxdi0xRFFtVDJJV19RLWpkZE9YaTRkRGhjWGc?oc=5",
+      "source": "legaltimes.co.kr",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[Who's Who Legal Korea 2026] 건설 · 부동산 legaltimes.co.kr",
       "score": 6,
       "via_google_news": true
     },

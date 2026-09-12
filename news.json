@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T09:29:57+09:00",
+  "updated_at": "2026-09-12T12:23:24+09:00",
   "articles": [
     {
       "id": "auto-f22c02537080",
@@ -14,6 +14,21 @@
       ],
       "mark": "신용한 충북지사, 민주당 지도부에 충북 미래 승부수...반도체가 오늘이면 바이오는 미래 아주경제",
       "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-7f1a895a51f7",
+      "briefing_date": "2026-09-12",
+      "published_date": "2026-09-12",
+      "title": "“땅 놀리지 말고 집 지어라”…내년 말까지 착공 땐 부담금 면제[부동산360] - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vNjhCMWhtdDRWa1BNYmxFTWlSa2RpdndvVWFBQkdhcV9HLUtVbDRCR052dmhTcXNHWDFmNmtwZWZqNWlnTVMyMFpmVkM1Q1NYVkhqd0RB?oc=5",
+      "source": "헤럴드경제",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "“땅 놀리지 말고 집 지어라”…내년 말까지 착공 땐 부담금 면제[부동산360] 헤럴드경제",
+      "score": 5,
       "via_google_news": true
     },
     {

@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-13T21:27:45+09:00",
+  "updated_at": "2026-09-14T09:32:46+09:00",
   "articles": [
+    {
+      "id": "auto-5d4efff2ad16",
+      "briefing_date": "2026-09-14",
+      "published_date": "2026-09-14",
+      "title": "단국대학교, 건축부터 AI까지 미래인재 육성… 건축 디지털 전환 견인한다 - 국토일보",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54eXp4Tmk1bUphcUF4ZFI1YzVEOXBWTjZfSld2TlQ2MkRMbk14OGx1YWgydll5elJETVFXSm5udFg4aWIxU2xFNjF6TEx6UElIbmY3YXFhamVpczRlc2dCNWhONA?oc=5",
+      "source": "국토일보",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "단국대학교, 건축부터 AI까지 미래인재 육성… 건축 디지털 전환 견인한다 국토일보",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-5fe23abb8a1d",
       "briefing_date": "2026-09-13",

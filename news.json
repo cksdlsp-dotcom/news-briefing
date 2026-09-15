@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-14T21:31:47+09:00",
+  "updated_at": "2026-09-15T09:33:11+09:00",
   "articles": [
+    {
+      "id": "auto-d25040d37ca1",
+      "briefing_date": "2026-09-15",
+      "published_date": "2026-09-15",
+      "title": "\"AI 설계, 책임 기준부터 세워야\" - 매일신문",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tTGh6eEMxR2dPM1haZ3NZMEpZMklXZS1SNnd1S3RwYmVOTFo1ME5PM1JtYklPMURMNnB3WVlWNDM1dTljdDR4VklCdmxyazBSWTdjbURlLVc1Y0hmM210ZDNB?oc=5",
+      "source": "매일신문",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "\"AI 설계, 책임 기준부터 세워야\" 매일신문",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-5d4efff2ad16",
       "briefing_date": "2026-09-14",

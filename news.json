@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-15T09:33:11+09:00",
+  "updated_at": "2026-09-15T12:26:40+09:00",
   "articles": [
+    {
+      "id": "auto-a915701c543f",
+      "briefing_date": "2026-09-15",
+      "published_date": "2026-09-15",
+      "title": "경기도, 'G-리더스 10' 선정…AI·로봇 스타트업 10월 집결 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9IY0R4VG41TGI4UUwyOFpPUkY4SUNiNmdiOFgtNld2REEzRktvNW9iMFM5WmhIUlQzTEU1aWpINXBFLW5xeEs4UVBZYlFiUQ?oc=5",
+      "source": "전자신문",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "경기도, 'G-리더스 10' 선정…AI·로봇 스타트업 10월 집결 전자신문",
+      "score": 6,
+      "via_google_news": true
+    },
     {
       "id": "auto-d25040d37ca1",
       "briefing_date": "2026-09-15",

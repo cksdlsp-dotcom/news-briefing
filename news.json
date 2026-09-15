@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T12:26:40+09:00",
+  "updated_at": "2026-09-15T15:31:46+09:00",
   "articles": [
     {
       "id": "auto-a915701c543f",
@@ -16,6 +16,21 @@
       "via_google_news": true
     },
     {
+      "id": "auto-a645b19b69ff",
+      "briefing_date": "2026-09-15",
+      "published_date": "2026-09-15",
+      "title": "“땅 놀리지 말고 집 지어라”…내년 말까지 착공 땐 개발부담금 면제 추진[부동산360] - 헤럴드경제 미주판",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxWEtENlpKYVVwODRwekxSSGlXcE5uZHgzY1RwUE1ZRGR0Zml0dGpIQ1E0MHdzSlZvbkNvYVZKdkRYRGlnSGktMjNfblROTy1OZm04VVRVNVpjcUtNWDJmSA?oc=5",
+      "source": "헤럴드경제 미주판",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "“땅 놀리지 말고 집 지어라”…내년 말까지 착공 땐 개발부담금 면제 추진[부동산360] 헤럴드경제 미주판",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
       "id": "auto-d25040d37ca1",
       "briefing_date": "2026-09-15",
       "published_date": "2026-09-15",
@@ -26,6 +41,20 @@
         "AI활용"
       ],
       "mark": "\"AI 설계, 책임 기준부터 세워야\" 매일신문",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-601f65e882ab",
+      "briefing_date": "2026-09-15",
+      "published_date": "2026-09-14",
+      "title": "단국대학교, 건축부터 AI까지 미래인재 육성… 건축 디지털 전환 견인한다 - ikld.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PSHR0eHBKYktKdHhCWHdYOGZ4ZWNoeTlhaFZ3RXJnMkJHbVVMNHU3TTJpOERGN2FocWVqQWNzU0pjekVONGstMFVTQ1dIUEp2LXhEYTYtVjNlYnJvY1FnM3pIMmc?oc=5",
+      "source": "ikld.kr",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "단국대학교, 건축부터 AI까지 미래인재 육성… 건축 디지털 전환 견인한다 ikld.kr",
       "score": 4,
       "via_google_news": true
     },

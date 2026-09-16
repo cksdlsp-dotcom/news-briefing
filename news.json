@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:30:35+09:00",
+  "updated_at": "2026-09-16T18:25:03+09:00",
   "articles": [
     {
       "id": "auto-8253d070808e",
@@ -116,6 +116,34 @@
         "수주대박"
       ],
       "mark": "건설 불황 무색한 정비사업 수주전…10대 건설사 33조 넘게 따냈다 코리아이글뉴스",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-937b372094c2",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "멈춰 선 포항 건설 현장…무분별한 특례사업과 부실 PF의 늪에 빠진 지역 경제 - 경북매일",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1uYkJMa3RwUUZFYV9qZXF0eE96SExfV052cTQxUWZGSXFBOWdweEc2bTRhVmY0MWwxT1k4QzItX200VGdOTWZNSk50RHh1M1JFdk5OQ3dRdVJEdw?oc=5",
+      "source": "경북매일",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "멈춰 선 포항 건설 현장…무분별한 특례사업과 부실 PF의 늪에 빠진 지역 경제 경북매일",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-ce5a79de2fba",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "전 직원 70%가 AI 쓴다…현대건설 ‘일하는 방식’ 확 바꿨다 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IcWlaTmR5aXlhS1NYT3hMN3dReTltdV84SHRpY3FNOW95NXk5X3VVdGhXd0s4LXR3SmVEQmZVeE8tRHBKSlhXSTEyeHoxX1k?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "전 직원 70%가 AI 쓴다…현대건설 ‘일하는 방식’ 확 바꿨다 v.daum.net",
       "score": 4,
       "via_google_news": true
     },

@@ -1,6 +1,124 @@
 {
-  "updated_at": "2026-09-15T21:29:39+09:00",
+  "updated_at": "2026-09-16T09:30:26+09:00",
   "articles": [
+    {
+      "id": "auto-8253d070808e",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "[2026 대경 스마트건설대상] 설계대상 유선엔지니어링건축사사무소 - dnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qOXJra3U3dTlQWkNfTWFJWlN1b3NoRXNPT0V2QU5pVGRTZ1lRV1dpSUp5V1FBU0Vpc0I4Q1pDZktIcm5iRWNmTDdicENRYzJ4b2oxZy1sMV9ZOUpJenJmVUppWm1kUHJxZ1cydmpGM3ZwUjBU?oc=5",
+      "source": "dnews.co.kr",
+      "projects": [
+        "감리자동화",
+        "BIM"
+      ],
+      "mark": "[2026 대경 스마트건설대상] 설계대상 유선엔지니어링건축사사무소 dnews.co.kr",
+      "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-e255cefa7028",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "원전 인허가에 AI 투입…블리칼라·마이크로소프트, ‘수년→수개월’ 도전 - 에너지안전신문",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4VlhmWUdZbEkxUHlCQk9mWkUwSnhid1UxQzlmNkljXzF6c1NoRmZacThyb0c3aWY3XzhuUzBCOHkwWk9TWndlTzFpX0FlQnpBUFNBbWlMV2RPWF9Wbk5xY25ZR1E?oc=5",
+      "source": "에너지안전신문",
+      "projects": [
+        "사전검토",
+        "감리자동화",
+        "AI활용"
+      ],
+      "mark": "원전 인허가에 AI 투입…블리칼라·마이크로소프트, ‘수년→수개월’ 도전 에너지안전신문",
+      "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-28758eb9634b",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "[2026 대경 스마트건설대상] 스마트인테리어대상 은민에스엔디 - dnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9QUnV0RGM2RXNSakN6NzBYS1FrOWRXbjhlNENlMUxyS1JXSk40bXRtV2szQzgyX0tQZnNaS1kxdm9LRWt2aWdGZTV2YXhHRU5XTTFoZUJ4RWxGU0xyVm9nRVB2cDVwUWQtUlVaZk9vcGJzRDZv?oc=5",
+      "source": "dnews.co.kr",
+      "projects": [
+        "감리자동화",
+        "BIM"
+      ],
+      "mark": "[2026 대경 스마트건설대상] 스마트인테리어대상 은민에스엔디 dnews.co.kr",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-6d9e1943aca4",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "[2026 대경 스마트건설대상] DC대상 동화이앤씨 - dnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vQm9XQWh0Vm1UTVRwcmZMSHFtNTdHWXVhcmg5VHR0QTJJUHJhLVhQcmIyTGlKcmJ4WUdQR2h0Y1JVbWVpamxfaTZ1d3dwbjRiRGtjNGUyTWJhb0JHaV9OUDlvSFlwTWNDQTZxVmNMamFhRy1i?oc=5",
+      "source": "dnews.co.kr",
+      "projects": [
+        "감리자동화",
+        "BIM"
+      ],
+      "mark": "[2026 대경 스마트건설대상] DC대상 동화이앤씨 dnews.co.kr",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f7d8ff7d5e2b",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "[2026 대경 스마트건설대상] 모듈러대상 M3시스템즈 - dnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lNkZvQVdVZHQza3ZqX0F6UXphbDE4TXdPbFBlQVZOWjlycEk1ZkxQTDdSSUdpZ3FMX0NrSkZDR1lSVV9FaWtHWk5PUFVMRFkzaURJS01VQkdhd3dLQkVUemF5RTBfTkljYXQzSXNzWFlCczJX?oc=5",
+      "source": "dnews.co.kr",
+      "projects": [
+        "감리자동화",
+        "BIM"
+      ],
+      "mark": "[2026 대경 스마트건설대상] 모듈러대상 M3시스템즈 dnews.co.kr",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-a72e02f315a8",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "경과원, ‘G-Leaders 10’ 선정…AI·로봇·헬스케어 혁신기업 집결 - 서울창업신문",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSLWV0OEkyT1JqVy01bVg5eTd5Qmx4c2F1TmxjazhtQmFoQ3hZOWhJSEpsbnBWbm84aDg0SFByNWFDQ193bEtTOTd5VlloaGxiZXp6V2lCdkJpaUptZ3hQb04xYm5SYTFuNmduUk1DOUhncXc2WjFiNU9paw?oc=5",
+      "source": "서울창업신문",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "경과원, ‘G-Leaders 10’ 선정…AI·로봇·헬스케어 혁신기업 집결 서울창업신문",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-2c5eb0fece66",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "Autodesk, Forma, Fusion 및 Flow 전반에 걸친 에이전트형 AI 미리 보기 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXpBQTZ2Q1pqaXBwMjhsX3hZTDRMdFlBdjhSZXFHRm9YNDNvRzhEWlppbncxRnl3eFRfODRHVGlqQmFDVWpBOVFwdEI1XzRFZzZYZDJCekxzUFg3b1UyeTd4bGVGdmoxRVRkNDdCNVlTUWxjX1dMeWlPT0h0Zk1KZ0htd0ROSS1ma2c?oc=5",
+      "source": "Unite.AI",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "Autodesk, Forma, Fusion 및 Flow 전반에 걸친 에이전트형 AI 미리 보기 Unite.AI",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f03e4a84e7c4",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-14",
+      "title": "“AI 시대, 건축도면 자산화·저작권 보호 위한 법제 정비 나서야” - dnews.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5nYzhPUGNxUzhJZTdZcW95aF80X1RaR1AyQllvSlYwZjhYOHozcE00ZHhsdzM4b1JRaEFJVkZnaC15SjVrZUFRVGVJem5iS2E4NENaMEthYjBVSU9KQTdVMlJVYkhqQlpWeEp6SzJHdDJNMjQ?oc=5",
+      "source": "dnews.co.kr",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "“AI 시대, 건축도면 자산화·저작권 보호 위한 법제 정비 나서야” dnews.co.kr",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-a915701c543f",
       "briefing_date": "2026-09-15",

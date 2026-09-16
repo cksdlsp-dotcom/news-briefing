@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T09:30:26+09:00",
+  "updated_at": "2026-09-16T12:24:45+09:00",
   "articles": [
     {
       "id": "auto-8253d070808e",
@@ -103,6 +103,20 @@
       ],
       "mark": "Autodesk, Forma, Fusion 및 Flow 전반에 걸친 에이전트형 AI 미리 보기 Unite.AI",
       "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-e3bb9f104e81",
+      "briefing_date": "2026-09-16",
+      "published_date": "2026-09-16",
+      "title": "건설 불황 무색한 정비사업 수주전…10대 건설사 33조 넘게 따냈다 - 코리아이글뉴스",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ySUNLbXpwTHppaUJxNTNmNVZUUWFhb20zTTNnaDAxOVNxWlpXSHF2R1lHQV9xNk1qa3VLaHg2WnoxTEh6ZHpsdUlKM19INFVIeTRpcXRGWTNZMDF2QnRaTkRzNHRIcUtfUlZDUExJbXlGWms?oc=5",
+      "source": "코리아이글뉴스",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "건설 불황 무색한 정비사업 수주전…10대 건설사 33조 넘게 따냈다 코리아이글뉴스",
+      "score": 4,
       "via_google_news": true
     },
     {

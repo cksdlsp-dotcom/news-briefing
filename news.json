@@ -1,6 +1,81 @@
 {
-  "updated_at": "2026-09-16T21:30:28+09:00",
+  "updated_at": "2026-09-17T09:30:55+09:00",
   "articles": [
+    {
+      "id": "auto-1f711e785a46",
+      "briefing_date": "2026-09-17",
+      "published_date": "2026-09-16",
+      "title": "SH, 마곡16단지서 AI·로봇 스마트건설 실증…12개 기술 시연 - 아시아타임즈",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8ybTZjWmZRS2tkRlk2R19zR2tfck9rdW8yMEc3d3ZZS3h5RGgwckZpRzFVZWhXN1N0XzdzV1ZQTHY3b0lCQ0JsMnpFeTJaVHhhYkR0UnR6VHVVeW12T1E?oc=5",
+      "source": "아시아타임즈",
+      "projects": [
+        "감리자동화",
+        "BIM",
+        "AI활용"
+      ],
+      "mark": "SH, 마곡16단지서 AI·로봇 스마트건설 실증…12개 기술 시연 아시아타임즈",
+      "score": 12,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-fbc6fe9db391",
+      "briefing_date": "2026-09-17",
+      "published_date": "2026-09-17",
+      "title": "[경제인사이드] 공사비 보고 현장 살피는 AI… 건설사 활용 영역 넓어진다 - 천지일보",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3elhmV3loMVVfLVN6a2prMldwQ3MtVlFJa3pQR2hwbk02Q3pPeUVULUtyVWNIcFp3dHFOdHpTQ1M5TEVxSHk1OW9hcFpibEdTd21EMndibFJmU2dhWGs1bjZmVXEyZEZuekE?oc=5",
+      "source": "천지일보",
+      "projects": [
+        "감리자동화",
+        "내역·적산",
+        "AI활용"
+      ],
+      "mark": "[경제인사이드] 공사비 보고 현장 살피는 AI… 건설사 활용 영역 넓어진다 천지일보",
+      "score": 10,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-8acc12ad261c",
+      "briefing_date": "2026-09-17",
+      "published_date": "2026-09-16",
+      "title": "노원구 재건축·재개발 전 과정 '원스톱 전문자문' 가동 - 서울동북신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBneHlDT2s2ZzZaWG43UGx0cUF1VFZzWDlmRENnSjBEYzlHdHF1OXdXcHJMVTUwa0hmbzlBUmVZNzdadGJMYXdWa3Z0aTQ4OGdQOG5Qa3BPREhRbkhVUFg1b2ZaczVNSlBYZWIzNg?oc=5",
+      "source": "서울동북신문",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "노원구 재건축·재개발 전 과정 '원스톱 전문자문' 가동 서울동북신문",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-070ab36ef18c",
+      "briefing_date": "2026-09-17",
+      "published_date": "2026-09-16",
+      "title": "[2026 대경 스마트건설대상] 스마트건축대상 우미건설 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0TS1SelU3LTNoSHc5TnJfWUpMT19JRFIwYUlkSktqZ2JTWVgzTXZTZmVwVXE1MzlLX3FwRWJaTEpCSER1MnFmWTNEdXpoRlhEWEpoTUpxcDZKMUd4Y21EWFBITmxFNnZ2Si1CcU5jSTFHM05W?oc=5",
+      "source": "대한경제",
+      "projects": [
+        "감리자동화",
+        "BIM"
+      ],
+      "mark": "[2026 대경 스마트건설대상] 스마트건축대상 우미건설 대한경제",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-1a490aa07b94",
+      "briefing_date": "2026-09-17",
+      "published_date": "2026-09-17",
+      "title": "Endra, AI 전기 설계 도구를 출시하고 스위스 랩 Planlabs를 인수 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVUhDakN3TU1CenVrbjhsSThwcDZUVFgxUTh5bTU4ckhRQUoyMVJwUUJCamZXRFBQYjM3QVNCYjRoQm1YM19kdFg2MHRJRmFsRFg4RDFfRER5blVzQmFoV3doVVRIR3J2dzRIUjdPRVhncmoydmEyWDZlYUItUmhmWmU5RFgzZ2ZoQXNKcnZHcTQ1ZGNfTUVzbA?oc=5",
+      "source": "Unite.AI",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "Endra, AI 전기 설계 도구를 출시하고 스위스 랩 Planlabs를 인수 Unite.AI",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-8253d070808e",
       "briefing_date": "2026-09-16",

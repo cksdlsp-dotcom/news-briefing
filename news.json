@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T09:30:55+09:00",
+  "updated_at": "2026-09-17T12:25:03+09:00",
   "articles": [
     {
       "id": "auto-1f711e785a46",
@@ -73,6 +73,20 @@
         "AI활용"
       ],
       "mark": "Endra, AI 전기 설계 도구를 출시하고 스위스 랩 Planlabs를 인수 Unite.AI",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-90f90bc21485",
+      "briefing_date": "2026-09-17",
+      "published_date": "2026-09-16",
+      "title": "멈춰 선 포항 건설 현장…무분별한 특례사업과 부실 PF의 늪에 빠진 지역 경제 - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tTDNaSjRWZkpHM0RvamtEVUw5RExhTndFQTl3d1ZQaU9FclhTWjdSNGFFNmRNV0xkTV81OFR5V2t0cXhKMWdsQ09hUTRfaWc?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "감리자동화"
+      ],
+      "mark": "멈춰 선 포항 건설 현장…무분별한 특례사업과 부실 PF의 늪에 빠진 지역 경제 v.daum.net",
       "score": 4,
       "via_google_news": true
     },

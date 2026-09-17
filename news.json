@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T12:25:03+09:00",
+  "updated_at": "2026-09-17T15:31:04+09:00",
   "articles": [
     {
       "id": "auto-1f711e785a46",
@@ -60,6 +60,21 @@
       ],
       "mark": "[2026 대경 스마트건설대상] 스마트건축대상 우미건설 대한경제",
       "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-21fa03dee515",
+      "briefing_date": "2026-09-17",
+      "published_date": "2026-09-16",
+      "title": "[2026 대경 스마트건설대상] DC대상 동화이앤씨 - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1tek9KOVdQSFlyV2hsZ0JNRUgtTUhLZGlDRTNxU0U2MXNIMWM3M2N0M3RiUkc4SWt4ZUY4UVQyakV3UnN6RVhCWDlKVG9vN3hFakU1QW5YLVVsN09SVW9QbWJRRHVnZHpkWDB0RTlpeS1xZW8?oc=5",
+      "source": "대한경제",
+      "projects": [
+        "감리자동화",
+        "BIM"
+      ],
+      "mark": "[2026 대경 스마트건설대상] DC대상 동화이앤씨 대한경제",
+      "score": 6,
       "via_google_news": true
     },
     {

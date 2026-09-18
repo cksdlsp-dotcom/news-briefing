@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T18:24:24+09:00",
+  "updated_at": "2026-09-18T21:28:31+09:00",
   "articles": [
     {
       "id": "auto-a155763cf215",
@@ -104,6 +104,22 @@
         "지역·부동산"
       ],
       "mark": "李 대통령, 부동산 정책 기조 재확인…“공급 늘리고 대출 억제” edaily.co.kr",
+      "score": 8,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-7432134cb66f",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "이 대통령 \"공급 최대한 늘리겠다... 부동산 시장 안정될 것\" - ainews1.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPMk5DbFhnczlGa2p5dW4wN1lueWNTSl85bFUwVzNVbWdsOGlJR0NFVVA4dXZfYlhIUl8yRVBXZXd3MHZHQTNDemRXQnJQeVdCdEhOMWhBaGV0VUVuYWYzcnVWZUhocjZOeGEw?oc=5",
+      "source": "ainews1.co.kr",
+      "projects": [
+        "사전검토",
+        "AI활용",
+        "지역·부동산"
+      ],
+      "mark": "이 대통령 \"공급 최대한 늘리겠다... 부동산 시장 안정될 것\" ainews1.co.kr",
       "score": 8,
       "via_google_news": true
     },
@@ -551,6 +567,36 @@
         "지역·부동산"
       ],
       "mark": "李대통령 “부동산 공화국 벗어나야...주택 신속 공급\" | 한스경제",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-4d9a8f59c499",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "李 “'부동산 투기 공화국' 탈피할 것…공급 신속히 늘리겠다” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0yTUptTjJKZnEySnJUMzN0UWVlaElpTTZ4Z21STlkxRUF1MmRPeF9PZC1YRFc1c1RTR2xYRHNPQnRWbFE1VEVxOU5tY19yN00?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李 “'부동산 투기 공화국' 탈피할 것…공급 신속히 늘리겠다” v.daum.net",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-9712b1f5d13c",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "이재명 \"부동산 공화국을 벗어나는 게 가장 중심 과제\", 레버리지 ETF \"부족함 있었다\" - 비즈니스포스트",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DRkoxZVp2eUEzem1sRHZmQmFDNTRDdU10NS1xbHZiWTg5bGp1Q3FQeHE3SWk1V2VSbHpjd0hqMGJ6VTZYaWRnVjJhS1dya2VoLU1zTHVVMjdhSGdSempGd3ktdDBlSmVvamtQclYzVlJkSDQ?oc=5",
+      "source": "비즈니스포스트",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이재명 \"부동산 공화국을 벗어나는 게 가장 중심 과제\", 레버리지 ETF \"부족함 있었다\" 비즈니스포스트",
       "score": 5,
       "via_google_news": true
     },

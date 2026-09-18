@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-09-17T21:29:55+09:00",
+  "updated_at": "2026-09-18T09:30:15+09:00",
   "articles": [
+    {
+      "id": "auto-addccfe3f9a7",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "구조기사 신설 검토에…건축업계 “용역 입찰에 반영, 단계적 접근해야” - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DMEdtVUlFRF92TXFkNDVDNjNzRGRVcmppeTlNU2lUejJ6UjBOVy14Qzh1ZnJIYVZoRkRxck9fOG1Ld2ZjaXVrd05IclRyVHhqX0N3M2Y1bmdOZEdiQkYwcnNfTDM0MkNkT2JIdTUzMGN5YXNj?oc=5",
+      "source": "대한경제",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "구조기사 신설 검토에…건축업계 “용역 입찰에 반영, 단계적 접근해야” 대한경제",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-2df7b3d1fcae",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-16",
+      "title": "LH, 토지·주택·도시 발전 자료 공개 구입 - 1기 신도시 자료도 수집 - 한국도시환경헤럴드",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EaW00b0twYzI2dlk2NW90ZDhGWUY0ajBOeGw3UlloNGdOb24yOWxzWkZCbWc1VmlLRVNtMGZvcl9EOVczc1BNdkVocnNxWmNIbGVOTHoxR25WdldqNGxaNXhyVUMtSzd1cjRubNIBcEFVX3lxTE5iZ2RRQUw5bUtuNjVSMG4tcnZ5YWpnTnJlR1FIeVZTQXBpR08zUlBtdGVhaEpKdXdYcFhicDVabWtUbXJkMVItbGRLYlNJRXhrY3hiZ3paSzltbjZuMkpsVGRTaHVZRGt5X0liV3JZcTI?oc=5",
+      "source": "한국도시환경헤럴드",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "LH, 토지·주택·도시 발전 자료 공개 구입",
+      "score": 5,
+      "via_google_news": true
+    },
     {
       "id": "auto-1f711e785a46",
       "briefing_date": "2026-09-17",

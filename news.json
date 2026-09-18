@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T15:29:09+09:00",
+  "updated_at": "2026-09-18T18:24:24+09:00",
   "articles": [
     {
       "id": "auto-a155763cf215",
@@ -132,6 +132,20 @@
         "사전검토"
       ],
       "mark": "이 대통령 “재건축·재개발, 택지개발 등 총동원해 주택 최대한 공급할 것” arunews.com",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-eabf0a0e5475",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "李 \"택지개발 또는 재건축·재개발 등 공급 최대한 신속히 늘릴 것\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kSUN6V01SSU5kTndXa3FleVkzdHpPcXY3eWdONUFIR3V5MWU1NnltNEx4MVc1N1czOUxxUjYwYzJ3NUo1R0E?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "李 \"택지개발 또는 재건축·재개발 등 공급 최대한 신속히 늘릴 것\" v.daum.net",
       "score": 7,
       "via_google_news": true
     },
@@ -417,6 +431,126 @@
         "지역·부동산"
       ],
       "mark": "李대통령 “전쟁 파병 없다”…부동산 공급은 속도전 newsfreezone.co.kr",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-ebbe430aa8ff",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "이 대통령 “부동산 투기공화국 벗어나는 게 중심과제…주택공급 신속 확대” - 뉴스21 통신",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBaVBHbnc4Y2RMcThTSEFEcE5MM1FQNHpyLXNKRkhUZmQ2LUhLcEFwYmJUeWNPcjE4OU9fZUMya3lGZGtqSHhZdHdGSmNvbzFMZVQySVNB?oc=5",
+      "source": "뉴스21 통신",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이 대통령 “부동산 투기공화국 벗어나는 게 중심과제…주택공급 신속 확대” 뉴스21 통신",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-ebde27ae831b",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "李대통령 \"부동산 공급 최대한 신속히 늘릴 것…매주 진척 확인\" - 연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44dENfcWhJUzA5aEs5YzZpLWlzODBFLTFvbVU3MEJwSU9hejVZTFVZT0xFOTEzcWw4Szh6d29IV2RTRTZ6a0ZQNlFmWVQzbEt4X2FGWUx2TndraHPSAWBBVV95cUxPNUNCYXcwSUFUVVFWNlRBb1JTZW9nVVd5MTRtc0dJSDN5NWM1ZWFJTHRBZ25WZ1o4R0lyanIwVml2QXh5ZkN2NE5BZlhtbVl3UE9GNjVpaXE5UDNnaUN1SVc?oc=5",
+      "source": "연합뉴스",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령 \"부동산 공급 최대한 신속히 늘릴 것…매주 진척 확인\" 연합뉴스",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-15c9cd6a26a4",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "[李기자회견] “부동산 공급 금융 확대…서울 집중 해소” - 대한경제",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JaVlBQTVKblV6X2VtdnlhU0hMM1U2SWdpdDdQQlBmQVFubW9vaFFjRklCTEhzbURXaGZRTkYzS1d4Q3gwUDZwV1FVUFEtZk5TdlhJWU1NUFJfcFBrOFhMNC1lWFpRSktpYVJNMk9FcFZmVTFz?oc=5",
+      "source": "대한경제",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[李기자회견] “부동산 공급 금융 확대…서울 집중 해소” 대한경제",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-12ec652d58e6",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "李 \"부동산 공급 최대한 신속히 늘릴 것…이 정부는 한다\" - 한국경제",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnQXljWFZiVWlOX1pfM1ZDWGRJV05KMlM1Ykd4U1RLcFE5LUNfYzdRVFd1WVplWFlxaGt2Y2F4X3E2NXUzc0c5eHo2STliQkx1OUlqZWZ6RVJQQQ?oc=5",
+      "source": "한국경제",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李 \"부동산 공급 최대한 신속히 늘릴 것…이 정부는 한다\" 한국경제",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-e2a8522ba097",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "李 “'부동산 투기 공화국' 탈피할 것…공급 신속히 늘리겠다” - 국민일보",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sYnZCd1R0cnFLdVJHaklENnBIMTZOOFBtTFZ5VFJIYkJSRkFLZU5NTUNDaElXZGRUWUJISk8tRlJfYjdNbXZ3UmtWaEp5bGotd3FlOVRneGkxTUVfUVBrVTNNUnlPUzlrRS1SY9IBbEFVX3lxTE1sYnZCd1R0cnFLdVJHaklENnBIMTZOOFBtTFZ5VFJIYkJSRkFLZU5NTUNDaElXZGRUWUJISk8tRlJfYjdNbXZ3UmtWaEp5bGotd3FlOVRneGkxTUVfUVBrVTNNUnlPUzlrRS1SYw?oc=5",
+      "source": "국민일보",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李 “'부동산 투기 공화국' 탈피할 것…공급 신속히 늘리겠다” 국민일보",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-77d09da3eb7b",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "李대통령 \"주택공급 최대한 신속하게…부동산 투기공화국 벗어날 것\" - news1.kr",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PUTRPZDUteXdTczVuZ3BNZHVWSVpTWXVDbldZb2lXTHphN2pzWDlmZGNObF90R3BJMnlOTmJEdFQ1MzJjRFBfYTRXX2Z5R28zOXA1TkRlR3RfVC14WjNTc9IBYEFVX3lxTE1PUTRPZDUteXdTczVuZ3BNZHVWSVpTWXVDbldZb2lXTHphN2pzWDlmZGNObF90R3BJMnlOTmJEdFQ1MzJjRFBfYTRXX2Z5R28zOXA1TkRlR3RfVC14WjNTcw?oc=5",
+      "source": "news1.kr",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령 \"주택공급 최대한 신속하게…부동산 투기공화국 벗어날 것\" news1.kr",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-04163f92a5b0",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "[속보] 이 대통령 “부동산공화국 벗어나기가 중심 과제, 안정화 될 것” | - 미디어오늘",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0bWU5UERiX1hpMEUzV2NYbEU5SzNHUGxYcDlabXNrbjR2dkJtTUh5a0JBRnNfRl96T09yRXpiSHNDdDMzUjFEWXRwczJweUg0c09IX0MxRjczTXp5Z1h5TkNFMlF4ZVl5WExVOXJzRFlHcmlO?oc=5",
+      "source": "미디어오늘",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[속보] 이 대통령 “부동산공화국 벗어나기가 중심 과제, 안정화 될 것” | 미디어오늘",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-57952e9c3102",
+      "briefing_date": "2026-09-18",
+      "published_date": "2026-09-18",
+      "title": "李대통령 “부동산 공화국 벗어나야...주택 신속 공급\" | - 한스경제",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Sa3pnVmZXMm45MVd2NFRhZUxhVU1KRWRKdkhVZTl6ZDhYbDVTWi12MS0xM1lFeFhCQU5Qb3FhMHBfVHo3MTNfc2ZjcmNsWXJKTWYyaGY2TGpWMENmdE9UU3ZuTW00WmpRY096ekktUQ?oc=5",
+      "source": "한스경제",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령 “부동산 공화국 벗어나야...주택 신속 공급\" | 한스경제",
       "score": 5,
       "via_google_news": true
     },

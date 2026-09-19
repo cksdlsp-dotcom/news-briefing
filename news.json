@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-18T21:28:31+09:00",
+  "updated_at": "2026-09-19T09:30:03+09:00",
   "articles": [
+    {
+      "id": "auto-b40bdfd4c492",
+      "briefing_date": "2026-09-19",
+      "published_date": "2026-09-19",
+      "title": "“부동산 공급 일주일마다 보고 받아… 할 수 있는 건 다할 것” - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BRWdZZE95S3RMXzhDQ0lwVDQxd0laVGhldUNHSTdXX2xPU2hha1pkUF81MXNoQ3FPWnRWSXc2aElZRmk3WTFVY25OZw?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "“부동산 공급 일주일마다 보고 받아… 할 수 있는 건 다할 것” v.daum.net",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-49ec46035b96",
+      "briefing_date": "2026-09-19",
+      "published_date": "2026-09-18",
+      "title": "이재명 \"부동산 공급 최대한 신속히 늘릴 것... 매주 진척 확인\" - 글로벌경제신문",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83WTM4V0N0SS14STNtT1NXTDlsQnlVdWUwSXRWNy1uTHhPSjQwMjF3ZWlfWGxJVkE0dVlINjM5VHEwSXNuSHBkT0VpeVh3b0hfTWc5SUpmcnZiUXNBYUZoMUhPZHpwd0NEdkMxdNIBcEFVX3lxTFBpdzV3bnFZdWJHUXpibkRQMzdJTTZmY0NJYmZrWUUwMzlvZGZlNC1HSU15MDRlV0JDNFNFQmZRWmJKb3lFWnV3U1k0dWRwaUlfcndSdVZlVUY0YWxHd2NPSDJRaDY4bUtYTnFlUEwzTVY?oc=5",
+      "source": "글로벌경제신문",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이재명 \"부동산 공급 최대한 신속히 늘릴 것... 매주 진척 확인\" 글로벌경제신문",
+      "score": 5,
+      "via_google_news": true
+    },
     {
       "id": "auto-a155763cf215",
       "briefing_date": "2026-09-18",

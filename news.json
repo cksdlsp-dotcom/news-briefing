@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T18:22:54+09:00",
+  "updated_at": "2026-09-19T21:27:26+09:00",
   "articles": [
     {
       "id": "auto-b40bdfd4c492",
@@ -28,6 +28,21 @@
         "지역·부동산"
       ],
       "mark": "이재명 \"부동산 공급 최대한 신속히 늘릴 것... 매주 진척 확인\" 글로벌경제신문",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f9616edfbc9d",
+      "briefing_date": "2026-09-19",
+      "published_date": "2026-09-18",
+      "title": "李대통령 “부동산 공급, 최대한 신속히”…사업별 진행상황 직접 점검 - 포인트데일리",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kenhJbmlGOFE4Zi1tVHktYk96d3FVZkxUSWJZWTdRdkRVc1g1X0xMV2NzdnNsX1VDSWxSX2c1VWVqWC1OeWprQ0huSWp5cENEeWpxUHNJNzNfNnlGMDc3WEFUamVfSnlKNVNlTGh6MEZNVHZX0gF0QVVfeXFMTmR6eEluaUY4UThmLW1UeS1iT3p3cVVmTFRJYllZN1F2RFVzWDVfTExXY3N2c2xfVUNJbFJfZzVVZWpYLU55amtDSG5JanlwQ0R5anFQc0k3M182eUYwNzdYQVRqZV9KeUo1U2VMaHowRk1Udlc?oc=5",
+      "source": "포인트데일리",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령 “부동산 공급, 최대한 신속히”…사업별 진행상황 직접 점검 포인트데일리",
       "score": 5,
       "via_google_news": true
     },

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20T12:24:14+09:00",
+  "updated_at": "2026-09-20T15:27:50+09:00",
   "articles": [
     {
       "id": "auto-2f40c67f1fba",
@@ -28,6 +28,21 @@
         "지역·부동산"
       ],
       "mark": "이재명 “부동산 공급 최대한 신속하게…이 정부는 한다” 서울Pn",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-dc44c79a74f6",
+      "briefing_date": "2026-09-20",
+      "published_date": "2026-09-18",
+      "title": "李대통령, 부동산 '공급' 의지 강조 \"공급 확대 총력, 매주 진척 확인\" - 화이트페이퍼",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jRmxGR29yNmRKX1h0LWZXMEI5dFBHbzZRN25JekZUXzVCLWVCYVg1X2NfbWNVTGJsWXZ0N1J6dzJZbXhSdzRwSkFLQncyb3hCZzRQZW9STmVnTkk3ZkdlLUFFVmZUMkNCVUN1QkV3a0s?oc=5",
+      "source": "화이트페이퍼",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령, 부동산 '공급' 의지 강조 \"공급 확대 총력, 매주 진척 확인\" 화이트페이퍼",
       "score": 5,
       "via_google_news": true
     },

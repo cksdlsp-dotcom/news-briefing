@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-19T21:27:26+09:00",
+  "updated_at": "2026-09-20T09:31:36+09:00",
   "articles": [
+    {
+      "id": "auto-2f40c67f1fba",
+      "briefing_date": "2026-09-20",
+      "published_date": "2026-09-18",
+      "title": "李대통령 \"주택공급 최대한 신속하게…부동산 투기공화국 벗어날 것\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BMTlhUDNiUTE0RTRMazlKMEU5NUNObEtXaUdGNEhjRFZHZnA2ODItT2Jzc1hTSWNsYV9maUpURzkzT044Qjh2b2h1cw?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령 \"주택공급 최대한 신속하게…부동산 투기공화국 벗어날 것\" v.daum.net",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-520ff7628c65",
+      "briefing_date": "2026-09-20",
+      "published_date": "2026-09-18",
+      "title": "이재명 “부동산 공급 최대한 신속하게…이 정부는 한다” - 서울Pn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT2xidjMwRGNWaFRSeGRESWdiWFpCQmZvZFAzUk9QdmV2SDZvaktGNU82Q213eUx3UEpCeWZFbC1nbXZTMDhXeGl0SkhGNXZIVVBiNTg2SHdxMkNic2dLZUVOVFd2VThpb2hoeTljSEJGUTVkQjM1SGlPX3JJaktrRTBZYWtTaEE?oc=5",
+      "source": "서울Pn",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이재명 “부동산 공급 최대한 신속하게…이 정부는 한다” 서울Pn",
+      "score": 5,
+      "via_google_news": true
+    },
     {
       "id": "auto-b40bdfd4c492",
       "briefing_date": "2026-09-19",

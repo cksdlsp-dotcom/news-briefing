@@ -1,6 +1,80 @@
 {
-  "updated_at": "2026-09-21T13:51:22+09:00",
+  "updated_at": "2026-09-21T21:43:18+09:00",
   "articles": [
+    {
+      "id": "auto-de76a9b62253",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "삼성물산, 서울 성수3지구 재개발 시공사 선정 - 한국건설신문",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CV1JGQVhJTzNMblhTWXBiWHJEaUZCRVB6YTd1YmpuRTZJbm1uSng1cU1wNVhOZ0JndFdWc3JrMmZaVko0cmw4b1lfSlpjWEt1N1JRZXZBSVVDQm5iUFFtUGcweV9Rc091bkJ3?oc=5",
+      "source": "한국건설신문",
+      "projects": [
+        "사전검토",
+        "감리자동화"
+      ],
+      "mark": "삼성물산, 서울 성수3지구 재개발 시공사 선정 한국건설신문",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f6ca06a98208",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "맏형의 힘…현대건설, 2년 연속 도정 수주 '10조 클럽' - shinailbo.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPeUljNi1DajlFSVpfXzZQa29IbnlEQkl3NEdQZ3BfV19EX041aEo3eWxQSXFXVEZ3RnRoUS1od1V2c3h5Y2FvQjdlTnFlYkN3blFqODNoV1lHYzNsWWhUb01oOWRscmhfU0w1cjdMbDQ?oc=5",
+      "source": "shinailbo.co.kr",
+      "projects": [
+        "수주대박",
+        "AI활용"
+      ],
+      "mark": "맏형의 힘…현대건설, 2년 연속 도정 수주 '10조 클럽' shinailbo.co.kr",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-dea97b19d696",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "동부건설, 퇴계원4구역 재개발 시공사 선정 - sisaon.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YOGFnbVlHSFRlZExKVVhfMEhRdDNLLTB4V2wxbUZNSFRXN2J4dFFTSU54NnJkN28yR3J3MGJfRnJtbkhVUjdtX2Z5V2tNcW5iMVZZYlJ3UHRhb2k1aVp6RkpiZFlUcDY2Y1V3?oc=5",
+      "source": "sisaon.co.kr",
+      "projects": [
+        "사전검토",
+        "감리자동화"
+      ],
+      "mark": "동부건설, 퇴계원4구역 재개발 시공사 선정 sisaon.co.kr",
+      "score": 7,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-0fb8fe4151c4",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "청주 새터지구 개발 본궤도…2천96세대 아파트 건립 - 중부매일",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUZFctZmIyWDNCaWJKR3VfS25MQTVQbmhvNEFqUzNOUzBlaVFlWWp6WWpiZExkZkVBQUlnMFFoTkRlT09OZkprbnJKQ3BXTnFUTXhFMU01d1hxVnVnaTVOR1A1X3o1R2s4bmfSAW5BVV95cUxOcV9sX0VIUDlGWGpDWmdrcEJUcXdrMnk5eENaanpJODJOa3lOaHNrQW9FWUlyQ0J6b3hudDVoYTJQc1VjZnQzdWxldk45ZFdIYmd5MThjSkk0cmtReExGdG5QeEprbmdkQVR0em5pUQ?oc=5",
+      "source": "중부매일",
+      "projects": [
+        "지역·부동산"
+      ],
+      "mark": "청주 새터지구 개발 본궤도…2천96세대 아파트 건립 중부매일",
+      "score": 6,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-d9e7a2596530",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "한국CM간사회, 제235차 정기모임 성료…‘CM 본래 입법정신 회복 강조’ - 건설이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyT1lBczZpUDMtV1JFS2JxTmd3MGZZZmx3bGM4YVc3elZGVDhKX2R0eVdRc0llbHpRbWg3MmF0N2Z3UzBtcEVDb3VCUnlBcHhvNmt6Ty03YXYzemxwM0ZyemRVclprQQ?oc=5",
+      "source": "건설이코노미뉴스",
+      "projects": [
+        "수주대박",
+        "감리자동화"
+      ],
+      "mark": "한국CM간사회, 제235차 정기모임 성료…‘CM 본래 입법정신 회복 강조’ 건설이코노미뉴스",
+      "score": 6,
+      "via_google_news": true
+    },
     {
       "id": "auto-0347f76e2132",
       "briefing_date": "2026-09-21",
@@ -32,6 +106,21 @@
       "via_google_news": true
     },
     {
+      "id": "auto-dff30093dce8",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "“나도 쫓겨날 수 있다”…이준석, 동탄 전셋집 첫 공개하며 부동산 작심 발언 - 경기일보",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUmllQnpBaEZNYzBWSWk4Tk5MLVNFLWZYTjdnWkVSSTVMMlpJdVh0aExPN0lYXzdTNUh0cHVOV0g4aGhsbHdjMC1fOTJjb2ZQcWNKWEkzdkZIVE0?oc=5",
+      "source": "경기일보",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "“나도 쫓겨날 수 있다”…이준석, 동탄 전셋집 첫 공개하며 부동산 작심 발언 경기일보",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
       "id": "auto-16f3d9d88e57",
       "briefing_date": "2026-09-21",
       "published_date": "2026-09-20",
@@ -43,6 +132,51 @@
         "지역·부동산"
       ],
       "mark": "李, 부동산 등 주요 국정 기조 크게 바뀌지 않는다 자유일보",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-30ca898f7c64",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "이 대통령 “부동산 공급 최대한 신속히 늘릴 것…이 정부는 합니다” [이런뉴스] - KBS 뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByNE41R2lSOTBGVXFiVzhLX1lhS19oRUozci1ZR0xJM3hJSjdXS3ZqZU4wdGlzODFrekJBMW42bGRBdE0yay1mbVFlNklYaFV4dHFORWJOdmx0TTg?oc=5",
+      "source": "KBS 뉴스",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이 대통령 “부동산 공급 최대한 신속히 늘릴 것…이 정부는 합니다” [이런뉴스] KBS 뉴스",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f3977718d5d2",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-19",
+      "title": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다 - chosun.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSW1rYWtldmVlRFFMV2diWm5McEVKNlUxZG5Vc1lWN3RwS25HdnFlUjU2NDJvS1dLLTNKTUk2bWl5algyZXB0SGNnaWRHZDM3SU4tR0ZjZlFiUTFXSHEzSTZJZ0NOY0RzelhqdmRzbGdBU2FReFVyeUMxOGRQMHVfSDg1dFo5THlsVjBWUFFCX00?oc=5",
+      "source": "chosun.com",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "\"강남 하락, 외곽 상승은 평탄화 과정\"... 李, 부동산 기조 안 바꾼다 chosun.com",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-65e8e1392839",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-19",
+      "title": "이재명 대통령 \"부동산 반드시 안정\"…연임엔 선 그었다 - 자본시장뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QbFhsb2pWQkMxX2R6YVNoWkdHcEZTd1FaWE1mQ3hRWTFqcU42b3hMWmNmbnZ1V2h2Z3FJSl9FT1Z4UTl3RFI1c3k0Nklka0RlZm42VDBRaVRORmxpek9sSjVNX0NpVHM?oc=5",
+      "source": "자본시장뉴스",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이재명 대통령 \"부동산 반드시 안정\"…연임엔 선 그었다 자본시장뉴스",
       "score": 5,
       "via_google_news": true
     },
@@ -77,6 +211,34 @@
       "via_google_news": true
     },
     {
+      "id": "auto-215097f29681",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "현대건설, 도시정비 수주 10조 원 돌파 - 핸드메이커",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rT09TQzBTVXNzNXBWOGFtZWh6OFZ2LUxBNkdxRzVyN3ZqQlQwN05WMFRSUmdzR2VuUERNNDE4UFQ4b1hqVm51MG5TNmIwSUpsM0U0R0JBcXRiUkhiMHlENHlQYk5oaG_SAWtBVV95cUxPUlhYTEUzb1FSTzNPTDVDU2RLWjdLRUJiSlNSanZTLXVkUHV2cUJYV2dCRm9FSUJTc3cxU3Z3RTZCNlRXS2JZM2FHOTFvUFdDV3JEdVRFbGUzbk5BRlBudXJNdVpGa01IbVgzaw?oc=5",
+      "source": "핸드메이커",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "현대건설, 도시정비 수주 10조 원 돌파 핸드메이커",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-7bf44f44b8c0",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파 - 증권경제신문",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IVGNSOU05WVRlM0dZVE5uMnRSN3h0QjRVT3EtTVM0LTZzczhBTkxLRDJ2VW5wS2hoVll1SnNCLVVtdElSdU1HRHVyWFhKM0dLcTdkTUFKOEdlcE9oWFo1b1d6NVphUWxZZlBscUxIZmwycUnSAXZBVV95cUxPQVl5OFJleHhCc0ZwTlhIX24yQjUtRjREWk4tLTdqbEpvT3h1SmlVVWJjMVNYTHhPaEpqeHp1RTRMVER1RDZaTVhaYjFCQ09tZVhnMnlKU2NSOVc0YlI1WGRianFpUjAxZGZiV2JpRGZxMXdJQkhn?oc=5",
+      "source": "증권경제신문",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파 증권경제신문",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
       "id": "auto-e3ca5239828e",
       "briefing_date": "2026-09-21",
       "published_date": "2026-09-20",
@@ -87,6 +249,48 @@
         "수주대박"
       ],
       "mark": "“신규수주 18조→27조↑”…대우건설, ‘건·토·플’ 트로이카로 뚫는다 아시아투데이",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-b286779337db",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "호반건설, 도시정비사업 수주 1조 돌파 - 코리아리포트",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yNFJhUktDdXNaYUxNTE8zcHJMcTNzNm9UTFJDSDZxdDRGT1BLNGpNNHBMUUpnQ1d6R1dabjRyck12TWlqdzNta1Bvc3phYUozTzh0czdGcmNkdUdmQTk5SVFCVjVzcmdNOU9kVnc3NG8?oc=5",
+      "source": "코리아리포트",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "호반건설, 도시정비사업 수주 1조 돌파 코리아리포트",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-a888750c5f2b",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "현대건설, 도시정비 수주 2년 연속 10조 돌파 … 올해 첫 10조원 건설사 - 워크투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XNHFWU2VCX0Y4cHJNV1A0RkZzdjV3MHVHZzUtb29fWlZmd05LVXVzbzVqSWY4ZDJkUHJLMVI2OENfb1JfN3B4YTB4UHhRS0x1Sm5sal9KcWtWR1BWQlJGbVJDN2FLMXNwRDNfaA?oc=5",
+      "source": "워크투데이",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "현대건설, 도시정비 수주 2년 연속 10조 돌파 … 올해 첫 10조원 건설사 워크투데이",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-4b8d8be56791",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "현대건설, 도시정비 수주 2년 연속 10조원 돌파 - 포쓰저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tY1B0clhQZHZEYzZHZ0JvZ3lSMVFsS3l0M1V3LTJGNTlGcENrTkFVVGNVekhwM2lWaVVGeDVnRnRHZ0NwNEw1azJJcW5xTGNnUlNJc0VRWkdyeU1nUXFLckNxbEo?oc=5",
+      "source": "포쓰저널",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "현대건설, 도시정비 수주 2년 연속 10조원 돌파 포쓰저널",
       "score": 4,
       "via_google_news": true
     },

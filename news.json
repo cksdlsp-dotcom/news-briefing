@@ -1,6 +1,95 @@
 {
-  "updated_at": "2026-09-20T22:34:16+09:00",
+  "updated_at": "2026-09-21T13:51:22+09:00",
   "articles": [
+    {
+      "id": "auto-0347f76e2132",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "\"부동산, 이 정부는 합니다\"···李대통령 잘한다 '반등' - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4zYXhqRjg2dEFQY2V0ck1zSFVxaHdLUEZMMllZY19SZG0zMjhUeUZfQ0hHMDJjaUIxVXQ1WmplQ050MTJyNFktMEhNZE9DSjA?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "\"부동산, 이 정부는 합니다\"···李대통령 잘한다 '반등' v.daum.net",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-ac217ebf1eae",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-21",
+      "title": "[2026년 부동산] 서울 집값 상승 곧 역대 최장 기록…\"전 정권, 오 시장 탓 맞을까\" - 이코노미톡뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBMVktVS0dhcTg2NG1sbEs5ek1LUXVPSWtXaXhuYVM5Vm5ERV9jSVNBdG50bThaQTRJLXJjUkdKTFZlMm9qRHpPeUZVbVdRUDE1dnI3cUZGbWxJcS1SaVl1RndHSFdDbUVKcnV4NA?oc=5",
+      "source": "이코노미톡뉴스",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[2026년 부동산] 서울 집값 상승 곧 역대 최장 기록…\"전 정권, 오 시장 탓 맞을까\" 이코노미톡뉴스",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-16f3d9d88e57",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "李, 부동산 등 주요 국정 기조 크게 바뀌지 않는다 - 자유일보",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zTlJPUGV4aDZabzZxM0I1dzNZdW5OZi1YYTV2MVRmWjUxczRFeXVfQnhyUWNKWjF2aVdIYWwxMWtfTkRWZFdsbEZRUGFqSE5leGw1dFh6cndtNTRFOUlZWEY4SnFoMTZFaEJxc09BTdIBb0FVX3lxTE0zTlJPUGV4aDZabzZxM0I1dzNZdW5OZi1YYTV2MVRmWjUxczRFeXVfQnhyUWNKWjF2aVdIYWwxMWtfTkRWZFdsbEZRUGFqSE5leGw1dFh6cndtNTRFOUlZWEY4SnFoMTZFaEJxc09BTQ?oc=5",
+      "source": "자유일보",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李, 부동산 등 주요 국정 기조 크게 바뀌지 않는다 자유일보",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-1683d27e0dbc",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-18",
+      "title": "李대통령 \"부동산 공급 최대한 신속히 늘릴 것…매주 진척 확인\" - 서울이코노미뉴스",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2UnhRVy1vMnRGMFJRaXVpRkU0ZnptQzh4VUxscjYyaGwwQnZxX3FCT3J1RzZHU1N5TkRWZzl2TDBPbzkyNy14dXo1X2JuemZqOGtKLUxrcW53VHNOWEpBb25jSHBMb2hMYWkzNkxB?oc=5",
+      "source": "서울이코노미뉴스",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령 \"부동산 공급 최대한 신속히 늘릴 것…매주 진척 확인\" 서울이코노미뉴스",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-6226b2b920df",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-18",
+      "title": "李대통령 “전쟁 파병 없다”…부동산 공급은 속도전 - 뉴스프리존",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zek9iNnFfRzUtMGxPS2Y1OU8yc0s3V2UwRDIwdURLMENsN3F0Z25aYS1TZGU3UjBISVNDc2JEaWdSXzBpUmY3VjNFY0ZWazRzRHRqTG1VVktOQm9vRk9XbFNTdlI0bTJBcjlCRV9idzRlU2JDX0FF0gF3QVVfeXFMTnN6T2I2cV9HNS0wbE9LZjU5TzJzSzdXZTBEMjB1REswQ2w3cXRnblphLVNkZTdSMEhJU0NzYkRpZ1JfMGlSZjdWM0VjRlZrNHNEdGpMbVVWS05Cb29GT1dsU1N2UjRtMkFyOUJFX2J3NGVTYkNfQUU?oc=5",
+      "source": "뉴스프리존",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령 “전쟁 파병 없다”…부동산 공급은 속도전 뉴스프리존",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-e3ca5239828e",
+      "briefing_date": "2026-09-21",
+      "published_date": "2026-09-20",
+      "title": "“신규수주 18조→27조↑”…대우건설, ‘건·토·플’ 트로이카로 뚫는다 - 아시아투데이",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NMDNzS3F3TFNUTTB3bG9uSlZlUTA0cmxaXzQ0MDJCZnplVW1hdEg2anFRSkNCNEVNa2UyN0ZrUHhtc3dSczRYYUIzNDlVUmZMaUZGdmNCdGZNY1c2amxNOXlScnZZajBLbzVpOHF3?oc=5",
+      "source": "아시아투데이",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "“신규수주 18조→27조↑”…대우건설, ‘건·토·플’ 트로이카로 뚫는다 아시아투데이",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-2f40c67f1fba",
       "briefing_date": "2026-09-20",

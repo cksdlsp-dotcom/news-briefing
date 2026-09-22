@@ -1,6 +1,184 @@
 {
-  "updated_at": "2026-09-21T21:43:18+09:00",
+  "updated_at": "2026-09-22T13:51:19+09:00",
   "articles": [
+    {
+      "id": "auto-64ce5aff608b",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "[최승준 변호사의 건설법률 상식-42]ESG·탄소중립 정책과 건설·부동산 산업의 규제 변화 - 국토일보",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zS2hmZnRzdDZUbHBDVElXMkdWaDhDVkJUczVkc2FfeXY4SHcyR0R5S3RoOGhUNmFwNEhGd0wyeFNVcnNFeXY4bmI0N3ZPUk9Ed0U3bkIwZHpHeEZLbkVqRzQxMA?oc=5",
+      "source": "국토일보",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[최승준 변호사의 건설법률 상식-42]ESG·탄소중립 정책과 건설·부동산 산업의 규제 변화 국토일보",
+      "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-e86cf3a774d7",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "李 “강남불패·부동산 투기공화국, 이제 과거 이야기 될 것” - edaily.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb1l3YkNOLWNMWUp0QWUybEpuRXlQMDVWN1FJQmNrQ0lQTG9HSnZPeHBwUmlMejJXd1dBRHZKSE9xWHUycHdEaEhnUlNmSU90b2dueHBQVS1JRjd0TUlZR0NvR3JIRjFLWGg2YXBmZ1hjVGFHQVNfQ2pKbVcwc1hPRw?oc=5",
+      "source": "edaily.co.kr",
+      "projects": [
+        "사전검토",
+        "AI활용",
+        "지역·부동산"
+      ],
+      "mark": "李 “강남불패·부동산 투기공화국, 이제 과거 이야기 될 것” edaily.co.kr",
+      "score": 8,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-1216edec9524",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "이 대통령 “강남불패·부동산투기공화국은 이제 과거 이야기 될 것” - 경향신문",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PcjgyUFNfdHpFNXdkR0hqc3JKVjRZOUtVNFpTQUpYTjlDZHBkdGZwWXdqYTlVRlpmLVkyUXFVSTlCZjFBVGpLSGk4U0JOa29WVzdmbzlha0Uwd9IBX0FVX3lxTFBMYjZxMDhncWhRdDhSZDNacElnZlJrYUVJcEc5MjJnS0xDVzVmYVdmRWxzdkpTckdZT3RXY0Eyd214UTJVd3l6TEVRWmpLQ183Mm5ieVgtcklPMUhFQ2NZ?oc=5",
+      "source": "경향신문",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이 대통령 “강남불패·부동산투기공화국은 이제 과거 이야기 될 것” 경향신문",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-1b33b8b2e870",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "[부동산 소식] 정부의 주택 시장 분석, 데이터에만 갇혀 있지는 않은가? - BBS불교방송",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50c3hRR3hrSUtNb3BrRkJ0RkJGSC1EZjlPWlo2UGJhWlQ4UXpZaGg3aVFiR2x5S2pSVmprN2tHWm8wOWxXQnQ1M3UwWXdIVFV3dlloZk9laFRKTkZVMkN4NTJMYm1pTS05clI0?oc=5",
+      "source": "BBS불교방송",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[부동산 소식] 정부의 주택 시장 분석, 데이터에만 갇혀 있지는 않은가? BBS불교방송",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-b57f17838ba2",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "李대통령, 뉴욕 도착 직후 SNS…\"부동산 투기공화국, 이제 과거 이야기\" - 머니투데이 - 머니투데이",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSEd0V2JRTURMZkwyeGxockxZMzNGbVhBUHlHbXRPODF1cVhjMldyMWx6X0p5WjktN095eU8xakZtdUZMMXpfQ3E3bHdWSUNwUktUcVFZZTVXejJGWm94SjhPSFdlWmh5dzRicNIBckFVX3lxTFBmb21nNjJ4S1F1dzdoWEsxY3g4eVgzcHp5bUlNWDJVdkJad3drNi1oQlM2U3dXTlZia05ia0ZTcEZIRS02cnBUbU9rNFMwUXo1b1lwRjZVTkhMbWdvRDlGQUkweDBDS2QtWkVjVkg3VXR4UQ?oc=5",
+      "source": "머니투데이",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령, 뉴욕 도착 직후 SNS…\"부동산 투기공화국, 이제 과거 이야기\"",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-f051f4e252aa",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "[속보] 李 대통령 “강남불패, 부동산투기 공화국 과거 이야기” - 서울신문",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByOGdrQjdrS3htU3pzVHJINFM1X2NubDYwQXRYSHk2dGtVaGRNNjNMOTA0ZloyNTZzWThoTDRveS0zZHpGS3ZHSVVfZ1Y0ZmU3b3BxZHN5Zw?oc=5",
+      "source": "서울신문",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[속보] 李 대통령 “강남불패, 부동산투기 공화국 과거 이야기” 서울신문",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-1c7b21b30b59",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "이재명 \"강남불패, 부동산투기공화국은 과거 이야기 될 것\" - sisafocus.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52Q3RoUHhZZmpWd0Y4eVpCWWdrbkN2TzFlZDBNeVZxZkNOS1pCamdFOTZRUnpETWpKUm5Kd2pfeWlQZGd0aHRicFF2Z0ZiXzJFRTRvX3BjbkQ3UFRSdkpuQ3dUWjBtZkpKdF9QUUhpRQ?oc=5",
+      "source": "sisafocus.co.kr",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이재명 \"강남불패, 부동산투기공화국은 과거 이야기 될 것\" sisafocus.co.kr",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-94811d512546",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "이재명 \"강남불패·부동산투기공화국 과거로\"…공적주택 119만호 공급 - 포쓰저널",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4aEpwQzBneEZJS2UwX19MN2FSbWJuckhHVkl6Q1ExSnJlUWlmRDRnMXgweVRqYWtTUnZmay1FLW8ybmZDMmh4cDZpVF9jVnExeVYyX3JJenV3eGFBbzFwZzRXWms?oc=5",
+      "source": "포쓰저널",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이재명 \"강남불패·부동산투기공화국 과거로\"…공적주택 119만호 공급 포쓰저널",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-38531f785ea5",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "李대통령, 다시 부동산 전면에…“강남불패 과거 이야기 될 것” - 이투데이",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9acmJUUzRzNkYxenpKVTFPTVZMRnNPVUplNXJqdXpBWWgtSkZxdE5nbHJVNzBCYzVVYjUtZXo3Tnc0b3JfSUtuMVQ2WUR1bkZtbHFqaC16QUJhT2RUakVzYzdqSm1qekRkclp4MUVZSVN0Y21C?oc=5",
+      "source": "이투데이",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령, 다시 부동산 전면에…“강남불패 과거 이야기 될 것” 이투데이",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-a0f5960baf23",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "다세대·다가구 바닥면적 660→1,000㎡로…소규모 주택 규제 완화 본격화 - 대한건축사협회 건축사신문",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44RGhhVERfWXM3dzdpb0lJSDlGMXQxQUNTR1dqTTBHc3BPdENJZVZKbWNJaThfS0p2YkNNaVZxX01ScjFFa1IxNndTR080YUl3S2RLSFZNS0kxSU9VUkhzb0RjVW5uV0U?oc=5",
+      "source": "대한건축사협회 건축사신문",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "다세대·다가구 바닥면적 660→1,000㎡로…소규모 주택 규제 완화 본격화 대한건축사협회 건축사신문",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-ae1454768b48",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "대보건설, 9월에만 5200억 수주…4년 연속 '1조 클럽' 입성 - 파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RZVRmZGFFTUEzejZIVHg5TTZuVldsX09mWVFmeUtpQndvc2ZJS2xHcHVMZEhOQmowbUh2b2g3RkZ1cFk5TlpLM3NsUk1ONlBWcEhlNFlPVnNXZw?oc=5",
+      "source": "파이낸셜뉴스",
+      "projects": [
+        "수주대박"
+      ],
+      "mark": "대보건설, 9월에만 5200억 수주…4년 연속 '1조 클럽' 입성 파이낸셜뉴스",
+      "score": 4,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-0d43db7321f4",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "GS건설, CoCo와 CoWork로 대규모 건설 프로젝트의 Business AI를 완성하다 - Snowflake",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54SF9uQkczeTdTU0FXS2kxSGRMajd3LXI0WUhaekxhazhQTG1VY1RvZmZxaURfVW8wOGp4VjZEczdlT0tKUFBmUm4tOEpMd211YXBjSzdObEdjX3BwOW5BQktUV2ZqNDI4NE5xcUlXMkxOUThybEFSVA?oc=5",
+      "source": "Snowflake",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "GS건설, CoCo와 CoWork로 대규모 건설 프로젝트의 Business AI를 완성하다 Snowflake",
+      "score": 4,
+      "via_google_news": true
+    },
     {
       "id": "auto-de76a9b62253",
       "briefing_date": "2026-09-21",

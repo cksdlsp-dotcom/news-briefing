@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T13:51:19+09:00",
+  "updated_at": "2026-09-22T20:33:47+09:00",
   "articles": [
     {
       "id": "auto-64ce5aff608b",
@@ -148,6 +148,36 @@
         "사전검토"
       ],
       "mark": "다세대·다가구 바닥면적 660→1,000㎡로…소규모 주택 규제 완화 본격화 대한건축사협회 건축사신문",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-b24696d3b01c",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "李 “강남불패·부동산 투기공화국, 과거 이야기 될 것”...2030년까지 공적주택 119만호 - 시사타파NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96ZlAtNkg4N1N6Qi1idU1WZ3U2UXpKY2dHa3pTVk5jSThUQWEzemZNa1BldnZLSXgycEdZcVlVNkVOZ1h4TTJvM3BhdG9BYjJHODZ5a3ZJNFBWXzZuZVHSAWtBVV95cUxObTdhX1JlWFdqRjBxX0N0aTlSM3RDell3UWJjektldDBXX1BHZ2ZzZ3E2ZnNKZnkxVkl1QkN1X09xYVJRcGpFTXQwNVRteVpkMEhMVWtoc3lZQXVscFBPUXlkYlFhdHVSSk9Edw?oc=5",
+      "source": "시사타파NEWS",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李 “강남불패·부동산 투기공화국, 과거 이야기 될 것”...2030년까지 공적주택 119만호 시사타파NEWS",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-2636b7bf47ce",
+      "briefing_date": "2026-09-22",
+      "published_date": "2026-09-22",
+      "title": "이재명 대통령 \"강남불패·부동산투기공화국, 이제 과거 얘기 될 것\" - v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81V0VPZGhmbWFFWnBWVDkxUE5RRDBBZlc0RjdaVENtYTNOSUpiMVJZb0drV0l6WTFhaVotNUxWd3pDTjFYOWc?oc=5",
+      "source": "v.daum.net",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "이재명 대통령 \"강남불패·부동산투기공화국, 이제 과거 얘기 될 것\" v.daum.net",
       "score": 5,
       "via_google_news": true
     },

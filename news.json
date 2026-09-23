@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-23T01:54:43+09:00",
+  "updated_at": "2026-09-23T13:41:38+09:00",
   "articles": [
+    {
+      "id": "auto-d2b3f8fbfce5",
+      "briefing_date": "2026-09-23",
+      "published_date": "2026-09-23",
+      "title": "GS인증 국산 AI CAD '직스캐드 AX', 공공·산업 현장 도입 확대 - 전자신문",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1vOU84LVRXMjhYV253Y0d0NkFVZmRFZlFxWHlCM05RNTZZcFFqUWZfejMtYlVLd29SbU5hVE1aQmlpdnlIOHBzaUpKbDlUQQ?oc=5",
+      "source": "전자신문",
+      "projects": [
+        "감리자동화",
+        "AI활용"
+      ],
+      "mark": "GS인증 국산 AI CAD '직스캐드 AX', 공공·산업 현장 도입 확대 전자신문",
+      "score": 9,
+      "via_google_news": true
+    },
     {
       "id": "auto-c0533a63dd3c",
       "briefing_date": "2026-09-23",
@@ -13,6 +28,21 @@
         "지역·부동산"
       ],
       "mark": "이재명 대통령 \"강남불패·부동산투기공화국, 이제 과거 얘기 될 것\" MTN 머니투데이방송",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-7b60b2e8aaa9",
+      "briefing_date": "2026-09-23",
+      "published_date": "2026-09-22",
+      "title": "李대통령, 뉴욕 도착 직후 SNS…\"부동산 투기공화국, 이제 과거 이야기\" - 머니투데이 - mt.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmb21nNjJ4S1F1dzdoWEsxY3g4eVgzcHp5bUlNWDJVdkJad3drNi1oQlM2U3dXTlZia05ia0ZTcEZIRS02cnBUbU9rNFMwUXo1b1lwRjZVTkhMbWdvRDlGQUkweDBDS2QtWkVjVkg3VXR4UdIBckFVX3lxTFBmb21nNjJ4S1F1dzdoWEsxY3g4eVgzcHp5bUlNWDJVdkJad3drNi1oQlM2U3dXTlZia05ia0ZTcEZIRS02cnBUbU9rNFMwUXo1b1lwRjZVTkhMbWdvRDlGQUkweDBDS2QtWkVjVkg3VXR4UQ?oc=5",
+      "source": "mt.co.kr",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "李대통령, 뉴욕 도착 직후 SNS…\"부동산 투기공화국, 이제 과거 이야기\"",
       "score": 5,
       "via_google_news": true
     },

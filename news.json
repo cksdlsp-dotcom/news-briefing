@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-23T13:41:38+09:00",
+  "updated_at": "2026-09-23T20:30:35+09:00",
   "articles": [
     {
       "id": "auto-d2b3f8fbfce5",
@@ -44,6 +44,35 @@
       ],
       "mark": "李대통령, 뉴욕 도착 직후 SNS…\"부동산 투기공화국, 이제 과거 이야기\"",
       "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-19ec892ed29a",
+      "briefing_date": "2026-09-23",
+      "published_date": "2026-09-21",
+      "title": "\"부동산, 이 정부는 합니다\"···李대통령 잘한다 '반등' - 한경매거진&북",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1oc0x3U0N5X3N0WDBBbDZrS0lWbkNYRzRQSS1UMWFlcld1dm5YUWZVNEs5QWhKU3V0LWFyd1R1ZTVncHRfQ1pIdkFZUEJHYzFqcXI2aEpVbWpzVG5DTG5WaW5tcGFDTmNsWEprQw?oc=5",
+      "source": "한경매거진&북",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "\"부동산, 이 정부는 합니다\"···李대통령 잘한다 '반등' 한경매거진&북",
+      "score": 5,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-2bcb56c46205",
+      "briefing_date": "2026-09-23",
+      "published_date": "2026-09-23",
+      "title": "'삼성물산 채용연계에 AX 전문기술석사까지' 두원공대 건축인테리어학과, 디지털 건축 이끈다 - 비욘드포스트",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53NW9YMjJSNy04T180aTB3VU9kYTFlcTZmVVVGb1FqOEVsWmY4bWY1ODJPNnZWX0pCa1VZQ1pkX2ZSTGc4RFBNQmp3SXppV3I2bU5NbHBaOGx4N1FBX01kOE5nbFNva1VrazZidXB6dHBpcElfTDJPUWNrMXQ?oc=5",
+      "source": "비욘드포스트",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "'삼성물산 채용연계에 AX 전문기술석사까지' 두원공대 건축인테리어학과, 디지털 건축 이끈다 비욘드포스트",
+      "score": 4,
       "via_google_news": true
     },
     {

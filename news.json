@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-09-24T20:40:52+09:00",
+  "updated_at": "2026-09-25T02:07:14+09:00",
   "articles": [
+    {
+      "id": "auto-d0322eb30081",
+      "briefing_date": "2026-09-25",
+      "published_date": "2026-09-22",
+      "title": "[최승준 변호사의 건설법률 상식-42]ESG·탄소중립 정책과 건설·부동산 산업의 규제 변화 - ikld.kr",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVeGtXSjRjQW9zVXhWUnRxLThQMW9id1NMdEE2cFZUanViZkE3STZzcm90NDlxNDRNdEVZNXVuYUJtMlBrXzFMRDgzanJxQjhsbjVPOHNTR3JCT2VnbG1aaFZNbnc?oc=5",
+      "source": "ikld.kr",
+      "projects": [
+        "사전검토",
+        "지역·부동산"
+      ],
+      "mark": "[최승준 변호사의 건설법률 상식-42]ESG·탄소중립 정책과 건설·부동산 산업의 규제 변화 ikld.kr",
+      "score": 9,
+      "via_google_news": true
+    },
+    {
+      "id": "auto-67844602d68d",
+      "briefing_date": "2026-09-25",
+      "published_date": "2026-09-24",
+      "title": "[교육·시니어주거] 재개발·재건축에서 고령친화 주거까지 - 건국대 도시정비 전문가과정 14기 모집 - 고령자주택신문",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nY1p5VjNGT1Fidzh0MmZMZlp2OS1EakRVT0thSDdPS1V1ZGtTU3V0eVlIa1dubXNXV0dKLWlwTUtjWV9veVk4Q0x2bm44dTBPbm44allrd0pfd1I3Qmo3SEo1YkIxX1ZJM2g1elFLN2FEZw?oc=5",
+      "source": "고령자주택신문",
+      "projects": [
+        "사전검토"
+      ],
+      "mark": "[교육·시니어주거] 재개발·재건축에서 고령친화 주거까지",
+      "score": 7,
+      "via_google_news": true
+    },
     {
       "id": "auto-b7d2d79da58e",
       "briefing_date": "2026-09-24",

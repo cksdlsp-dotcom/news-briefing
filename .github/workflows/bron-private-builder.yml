@@ -1,0 +1,153 @@
+name: BRON private relay build
+
+on:
+  push:
+    branches: [bron-private-build-20260926]
+    paths:
+      - '.github/workflows/bron-private-builder.yml'
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: bron-private-build-20260926
+          fetch-depth: 0
+
+      - name: Generate ephemeral build key
+        shell: bash
+        run: |
+          set -euo pipefail
+          openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:2048 -out /tmp/bron_private.pem >/dev/null 2>&1
+          MOD=$(openssl rsa -in /tmp/bron_private.pem -modulus -noout | sed 's/^Modulus=//')
+          printf '{"n":"%s","e":65537}\n' "$MOD" > bron_pub.json
+          git config user.name "BRON private builder"
+          git config user.email "actions@users.noreply.github.com"
+          git add bron_pub.json
+          git commit -m "BRON ephemeral public build key"
+          git push origin HEAD:bron-private-build-20260926
+
+      - name: Wait for encrypted source payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          for i in $(seq 1 150); do
+            git fetch origin bron-private-build-20260926 >/dev/null 2>&1 || true
+            git reset --hard origin/bron-private-build-20260926 >/dev/null 2>&1 || true
+            if test -s bron_payload.enc.b64 && test -s bron_key.enc.b64 && test -s bron_tag.hex; then
+              echo "Encrypted source received."
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "Timed out waiting for encrypted source." >&2
+          exit 1
+
+      - name: Decrypt private source in runner memory
+        shell: bash
+        run: |
+          set -euo pipefail
+          base64 -d bron_key.enc.b64 > /tmp/bron_key.enc
+          openssl pkeyutl -decrypt -inkey /tmp/bron_private.pem -pkeyopt rsa_padding_mode:pkcs1 -in /tmp/bron_key.enc -out /tmp/bron_key.bin
+          base64 -d bron_payload.enc.b64 > /tmp/bron_payload.enc
+          python3 - <<'PY'
+          from pathlib import Path
+          import base64, hashlib, hmac, json
+
+          key = Path('/tmp/bron_key.bin').read_bytes()
+          cipher = Path('/tmp/bron_payload.enc').read_bytes()
+          expected = Path('bron_tag.hex').read_text().strip().lower()
+          actual = hmac.new(key, cipher, hashlib.sha256).hexdigest()
+          if not hmac.compare_digest(actual, expected):
+              raise SystemExit('payload authentication failed')
+
+          out = bytearray(len(cipher))
+          pos = 0
+          counter = 0
+          while pos < len(cipher):
+              block = hashlib.sha256(key + counter.to_bytes(8, 'big')).digest()
+              take = min(len(block), len(cipher) - pos)
+              for j in range(take):
+                  out[pos + j] = cipher[pos + j] ^ block[j]
+              pos += take
+              counter += 1
+
+          payload = json.loads(bytes(out).decode('utf-8'))
+          root = Path('bron-src')
+          for rel, b64 in payload.items():
+              p = root / rel
+              p.parent.mkdir(parents=True, exist_ok=True)
+              p.write_bytes(base64.b64decode(b64))
+          print(f"Restored {len(payload)} files.")
+          PY
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: '8.7'
+          cache-disabled: true
+
+      - name: Restore stable debug keystore
+        shell: bash
+        working-directory: bron-src
+        run: |
+          set -euo pipefail
+          mkdir -p "$HOME/.android"
+          python3 - <<'PY' > /tmp/key.b64
+          from pathlib import Path
+          import re
+          s=Path('.github/bron-build-apk-template.txt').read_text()
+          m=re.search(r"echo '([^']+)' \| base64 --decode", s)
+          if not m:
+              raise SystemExit('stable debug keystore not found')
+          print(m.group(1))
+          PY
+          base64 --decode /tmp/key.b64 > "$HOME/.android/debug.keystore"
+          chmod 600 "$HOME/.android/debug.keystore"
+
+      - name: Build BRON 0.10.48
+        shell: bash
+        working-directory: bron-src
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('app/build.gradle.kts')
+          s=p.read_text()
+          if 'versionCode = 63' not in s or 'versionName = "0.10.39-radio-fixes-preview"' not in s:
+              raise SystemExit('unexpected version baseline')
+          s=s.replace('versionCode = 63','versionCode = 72',1)
+          s=s.replace('versionName = "0.10.39-radio-fixes-preview"','versionName = "0.10.48-radiofix-candidate"',1)
+          p.write_text(s)
+          PY
+          node --check app/src/main/assets/bron_ui/app.js
+          node --check app/src/main/assets/bron_ui/bridge.js
+          gradle testDebugUnitTest assembleDebug --no-daemon --stacktrace
+          test -s app/build/outputs/apk/debug/app-debug.apk
+          cp app/build/outputs/apk/debug/app-debug.apk ../BRON_0.10.48_RADIOFIX_CANDIDATE.apk
+          sha256sum ../BRON_0.10.48_RADIOFIX_CANDIDATE.apk
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: BRON_0.10.48_RADIOFIX_CANDIDATE
+          path: BRON_0.10.48_RADIOFIX_CANDIDATE.apk
+          retention-days: 1
+          compression-level: 0
+          if-no-files-found: error
+
+      - name: Destroy plaintext source and private key
+        if: always()
+        shell: bash
+        run: |
+          rm -rf bron-src /tmp/bron_private.pem /tmp/bron_key.bin /tmp/bron_key.enc /tmp/bron_payload.enc

@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-09-26T13:53:27+09:00",
+  "updated_at": "2026-09-26T20:20:10+09:00",
   "articles": [
+    {
+      "id": "auto-5477c95f293a",
+      "briefing_date": "2026-09-26",
+      "published_date": "2026-09-26",
+      "title": "[1인 제국: 유니콘 이후의 미래] 매튜 갤러거는 2024년 9월, 로스앤젤레스 자택에서 2만 달러의 자본금과 직원 한 명 없이, 그리고 인공지능(AI) 도구 몇 가지만으로 GLP-1 등급 원격 의료 회사인 메드비(Medvi)를 설립했다. - AI넷",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE82R1EtbEk0UThWY1gxWDcxTGp3R2V2VUtWdWhQcnh6Ym1EUEtVNm1pQVFiTjdzMW12czI2cklaY3E?oc=5",
+      "source": "AI넷",
+      "projects": [
+        "AI활용"
+      ],
+      "mark": "[1인 제국: 유니콘 이후의 미래] 매튜 갤러거는 2024년 9월, 로스앤젤레스 자택에서 2만 달러의 자본금과 직원 한 명 없이, 그리고 인공지능(AI) 도구 몇 가지만으로 GLP-1 등급 원격 의료 회사인 메드…",
+      "score": 6,
+      "via_google_news": true
+    },
     {
       "id": "auto-1606e66523c0",
       "briefing_date": "2026-09-26",

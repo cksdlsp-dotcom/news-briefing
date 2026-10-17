@@ -1,0 +1,58 @@
+name: CHAIGIDA Capture10 ZIP and compile check
+on:
+  push:
+    branches: [chaigida-capture10-test-20261017]
+    paths:
+      - "capture10/**"
+      - ".github/workflows/chaigida-capture10.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  pack_and_check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout separate test branch
+        uses: actions/checkout@v4
+      - name: Create Windows builder ZIP
+        shell: bash
+        run: |
+          cd capture10
+          zip -9 ../CHAIGIDA_CAPTURE10_H_BUILDER.zip RUN_BUILD.cmd BUILD_CAPTURE10.ps1 PATCH_SOURCE.ps1 README.txt
+          unzip -l ../CHAIGIDA_CAPTURE10_H_BUILDER.zip
+      - name: Upload runnable ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: CHAIGIDA_CAPTURE10_H_BUILDER
+          path: CHAIGIDA_CAPTURE10_H_BUILDER.zip
+          retention-days: 30
+      - name: Install Java 17 for compile validation
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+      - name: Prepare Android SDK 35
+        uses: android-actions/setup-android@v3
+      - name: Install SDK platform
+        shell: bash
+        run: sdkmanager --install "platforms;android-35" "build-tools;35.0.0" >/dev/null
+      - name: Download pinned original code (for testing only)
+        shell: bash
+        run: |
+          curl -fLsS --retry 3 -o upstream.zip https://codeload.github.com/SimonBaars/Android-AutoScreenshot/zip/d70056db1b25f0307ab72b21b9572052ed9cc4a5
+          unzip -q upstream.zip
+          mv Android-AutoScreenshot-d70056db1b25f0307ab72b21b9572052ed9cc4a5 upstream
+      - name: Apply personal trial patch
+        shell: pwsh
+        run: |
+          ./capture10/PATCH_SOURCE.ps1 -Root ./upstream
+      - name: Compile debug APK (not publicly distributed)
+        shell: bash
+        run: |
+          chmod +x upstream/gradlew
+          cd upstream
+          ./gradlew --no-daemon :app:assembleDebug
+          test -s app/build/outputs/apk/debug/app-debug.apk
+          echo "Compile success: debug APK exists."
